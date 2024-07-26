@@ -127,7 +127,7 @@ class XsTinhController extends Controller
         $short_name = strtoupper($province->short_name);
 
         $duoiDesc = '';
-        $duoi = ' - Xo so ba dai';
+        $duoi = ' - Xo so tai loc';
         switch ($short_name) {
             case 'DL':
                 $data = [
@@ -151,7 +151,7 @@ class XsTinhController extends Controller
                     "XS Tiền Giang - Xổ số kiến thiết Tiền Giang",
                     "XSKT Tiền Giang - sổ xố Tiền Giang",
                     "Xổ số Tiền Giang chủ nhật ngày",
-                    "XSTGIANG - Xổ số Tiền Giang ba đài"
+                    "XSTGIANG - Xổ số Tiền Giang tài lộc"
                 ];
                 $thu = 'chủ nhật';
                 $location = 'số 5 Thủ Khoa Huân, Phường 1, Thành phố Mỹ Tho, Tiền Giang';
@@ -165,7 +165,7 @@ class XsTinhController extends Controller
                     "XS Kiên Giang - Xổ số kiến thiết Kiên Giang",
                     "XSKT Kiên Giang - sổ xố Kiên Giang",
                     "Xổ số Kiên Giang chủ nhật ngày",
-                    "XSKGIANG - Xổ số Kiên Giang ba đài"
+                    "XSKGIANG - Xổ số Kiên Giang tài lộc"
                 ];
                 $thu = 'chủ nhật';
                 $location = 'Số 94 Đường 3 Tháng 2, Phường Vĩnh Bảo, TP. Rạch Giá, Kiên Giang';
@@ -204,7 +204,7 @@ class XsTinhController extends Controller
                     "XS Long An - Xổ số kiến thiết Long An",
                     "XSKT Long An - sổ xố Long An",
                     "Xổ số Long An thứ bảy ngày",
-                    "Xslong An - Xổ số Long An ba đài"
+                    "Xslong An - Xổ số Long An tài lộc"
                 ];
                 $thu = 'thứ 7';
                 $location =  'Số 120, Tuyến tránh Quốc lộ 1, khu phố Bình Cư 3, phường 6, thành phố Tân An, tỉnh Long An';
@@ -244,7 +244,7 @@ class XsTinhController extends Controller
                     "XS Vĩnh Long - Xổ số kiến thiết Vĩnh Long",
                     "XSKT Vĩnh Long - sổ xố Vĩnh Long",
                     "Xổ số Vĩnh Long thứ 6 ngày",
-                    "XS VL - Xổ số Vĩnh Long ba đài"
+                    "XS VL - Xổ số Vĩnh Long tài lộc"
                 ];
                 $duoiDesc = ' xo so vinh long';
                 $thu = 'thứ 6';
@@ -272,7 +272,7 @@ class XsTinhController extends Controller
                     "XS Tây Ninh - Xổ số kiến thiết Tây Ninh",
                     "XSKT Tây Ninh - sổ xố Tây Ninh",
                     "Xổ số Tây Ninh thứ 5 ngày",
-                    "XS TN - Xổ số Tây Ninh ba đài"
+                    "XS TN - Xổ số Tây Ninh tài lộc"
                 ];
                 $thu = 'thứ 5';
                 $location =  '64C Nguyễn Thái Học, phường Mỹ Bình, TP Long Xuyên, Tây Ninh';
@@ -286,7 +286,7 @@ class XsTinhController extends Controller
                     "XS An Giang - Xổ số kiến thiết An Giang",
                     "XSKT An Giang - sổ xố An Giang",
                     "Xổ số An Giang thứ năm ngày",
-                    "Xổ số AG - Xổ số An Giang ba đài"
+                    "Xổ số AG - Xổ số An Giang tài lộc"
                 ];
                 $thu = 'thứ 5';
                 $location =  '64C Nguyễn Thái Học, phường Mỹ Bình, TP Long Xuyên, An Giang';
@@ -299,7 +299,7 @@ class XsTinhController extends Controller
                     "XS Đồng Nai - Xổ số kiến thiết Đồng Nai",
                     "XSKT Đồng Nai - sổ xố Đồng Nai",
                     "Xổ số Đồng Nai thứ tư ngày",
-                    "XSĐN - Xổ số Đồng Nai ba đài"
+                    "XSĐN - Xổ số Đồng Nai tài lộc"
                 ];
                 $duoi = ' - XSĐN';
                 $thu = 'thứ 4';
@@ -313,7 +313,7 @@ class XsTinhController extends Controller
                     "XS Sóc Trăng - Xổ số kiến thiết Sóc Trăng",
                     "XSKT Sóc Trăng - sổ xố Sóc Trăng",
                     "Xổ số Sóc Trăng thứ ba ngày",
-                    "XSSTR - Xổ số Sóc Trăng ba đài"
+                    "XSSTR - Xổ số Sóc Trăng tài lộc"
                 ];
                 $duoi = ' - XSSTR';
                 $thu = 'thứ 3';
@@ -327,7 +327,7 @@ class XsTinhController extends Controller
                     "XS Bạc Liêu - Xổ số kiến thiết Bạc Liêu",
                     "XSKT Bạc Liêu - sổ xố Bạc Liêu",
                     "Xổ số Bạc Liêu thứ ba ngày",
-                    "XSBLIEU - Xổ số Bạc Liêu ba đài"
+                    "XSBLIEU - Xổ số Bạc Liêu tài lộc"
                 ];
                 $duoi = ' - XSKT Bac Lieu';
                 $thu = 'thứ 3';
@@ -383,7 +383,7 @@ class XsTinhController extends Controller
                     "XS Đồng Tháp - Xổ số kiến thiết Đồng Tháp",
                     "XSKT Đồng Tháp - sổ xố Đồng Tháp",
                     "Kết quả XSDT thứ hai ngày",
-                    "XSĐT - Xổ số Đồng Tháp ba đài"
+                    "XSĐT - Xổ số Đồng Tháp tài lộc"
                 ];
 
                 $duoi = ' - XSĐT';
@@ -398,7 +398,7 @@ class XsTinhController extends Controller
                     "XS Cần Thơ - Xổ số kiến thiết Cần Thơ",
                     "XSKT Cần Thơ - sổ xố Cần Thơ",
                     "Kết quả XSCT thứ tư ngày",
-                    "XSCTHO - Xổ số Cần Thơ ba đài"
+                    "XSCTHO - Xổ số Cần Thơ tài lộc"
                 ];
 
                 $duoi = ' - XSKTCT';
@@ -414,7 +414,7 @@ class XsTinhController extends Controller
                     "XSBRVT - KQXS Vũng Tàu",
                     "Kết quả xổ số Bà Rịa Vũng Tàu",
                     "Kết quả XS VT thứ 3 ngày",
-                    "XSVTAU - Xổ số Vũng Tàu ba đài"
+                    "XSVTAU - Xổ số Vũng Tàu tài lộc"
                 ];
 
                 $duoi = ' - XSBRVT';
@@ -605,7 +605,7 @@ class XsTinhController extends Controller
                     "Xsphu yen - xo so phu yen"
                 ];
 
-                $duoi = " - SXPY - Xo so ba dai";
+                $duoi = " - SXPY - Xo so tai loc";
                 $thu = 'thứ 2';
                 $location =  '204 Trần Hưng Đạo, Phường 4, Tuy Hòa, Phú Yên';
                 break;
