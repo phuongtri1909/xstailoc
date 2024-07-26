@@ -1,0 +1,1 @@
+@foreach($xsmbs as $xsmb)    <tr>        <td class="date">            {{getThu($xsmb->day)}}<br>{{getNgay($xsmb->date)}}    </td>        <td class="blue bold">            {{$xsmb->g7}}    </td>        <td class="blue">            <i>{{substr($xsmb->gdb,0,-2)}}</i><i class="red">{{substr($xsmb->gdb,-2)}}</i>        </td>    </tr>@endforeach
