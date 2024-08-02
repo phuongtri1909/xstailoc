@@ -16,7 +16,7 @@
 
         </div>
 
-        <div class="content-right bullet live_mb">
+        <div class="content-right bullet tk-block live_mb">
             <div class="title-r"><a class="bg-blue" title="Xổ số vietlott" href="{{ route('vietlott') }}">Xổ số vietlott</a></div>
             <ul>
                 <li @if (url()->full() == route('xsthantai')) class="active" @endif><a href="{{ route('xsthantai') }}">Thần
@@ -161,7 +161,7 @@
             </ul>
         </div>
 
-        <div class="content-right bullet tk-block">
+        <div class="content-right bullet live_mb">
             <div class="title-r"><a class="bg-blue" title="Thống kê">Thống kê</a></div>
             <ul class="stastic-lotery">
                 {{-- <li @if (url()->full() == route('tk.dac-biet', 'mb')) class="active" @endif><a href="#" title="2 số cuối giải đặc biệt">2 số cuối giải đặc biệt</a> --}}
