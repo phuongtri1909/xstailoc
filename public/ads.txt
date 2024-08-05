@@ -1,4 +1,4 @@
-google.com, pub-2073887506688161, DIRECT, f08c47fec0942fa0
+google.com, pub-2755937406534249, DIRECT, f08c47fec0942fa0
 OWNERDOMAIN=xstailoc.com
 MANAGERDOMAIN=pubpower.io
 indexexchange.com, 192277, RESELLER, 50b1c356f2c5c8fc
