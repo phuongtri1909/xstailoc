@@ -84,8 +84,8 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
         </div>
         <div class="box-content">
 
-            <p style="text-align: justify;"><span style="font-weight: 400;">Cầu Bạch Thủ. Soi Cầu Bạch Thủ.&nbsp; Xem Thống k&ecirc; Cầu Bạch Thủ nhanh ch&oacute;ng, ch&iacute;nh x&aacute;c v&agrave; ho&agrave;n to&agrave;n miễn ph&iacute; tại xstailoc.com</span></p>
-            <p style="text-align: justify;"><span style="font-weight: 400;">xstailoc.com nơi cập nhật Thống K&ecirc; Cầu Bạch Thủ. Soi Cầu Bạch Thủ li&ecirc;n tục, nhanh ch&oacute;ng v&agrave; ch&iacute;nh x&aacute;c.</span></p>
+            <p style="text-align: justify;"><span style="font-weight: 400;">Cầu Bạch Thủ. Soi Cầu Bạch Thủ.&nbsp; Xem Thống k&ecirc; Cầu Bạch Thủ nhanh ch&oacute;ng, ch&iacute;nh x&aacute;c v&agrave; ho&agrave;n to&agrave;n miễn ph&iacute; tại xosotailoc.vip</span></p>
+            <p style="text-align: justify;"><span style="font-weight: 400;">xosotailoc.vip nơi cập nhật Thống K&ecirc; Cầu Bạch Thủ. Soi Cầu Bạch Thủ li&ecirc;n tục, nhanh ch&oacute;ng v&agrave; ch&iacute;nh x&aacute;c.</span></p>
             <h2 style="text-align: justify;"><strong>L&ocirc; bạch thủ l&agrave; g&igrave;?</strong></h2>
             <p style="text-align: justify;"><span style="font-weight: 400;">Đ&aacute;nh bạch thủ l&ocirc; đề l&agrave; dạng đặt cược v&agrave;o một v&aacute;n duy nhất m&agrave; kh&ocirc;ng lựa chọn th&ecirc;m số n&agrave;o nữa để c&oacute; cơ hội chiến thắng được số tiền lớn hơn. B&ecirc;n cạnh đ&oacute;, việc chỉ đ&aacute;nh 1 con l&ocirc; như thế th&igrave; x&aacute;c suất chiến thắng rất thấp phải n&oacute;i l&agrave; rất may mắn mới c&oacute; thể tr&uacute;ng.</span></p>
             <h3 style="text-align: justify;"><strong>Soi cầu bạch thủ l&agrave; g&igrave;?</strong></h3>
@@ -99,8 +99,8 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
             <p style="text-align: justify;"><span style="font-weight: 400;">- Vốn chơi thấp, c&oacute; tỷ lệ ăn cao đ&ograve;i hỏi người chơi phải t&iacute;nh to&aacute;n được con l&ocirc; n&agrave;o ra trong bảng kết quả xổ số.</span></p>
             <p style="text-align: justify;"><span style="font-weight: 400;">Những phương ph&aacute;p soi cầu bạch thủ l&agrave; vấn đề nhận được sự quan t&acirc;m lớn từ giới l&ocirc; đề. Để bắt được cầu bạch thủ chuẩn, bạn kh&ocirc;ng chỉ &aacute;p dụng 1 phương ph&aacute;p m&agrave; c&ograve;n phải kết hợp nhiều phương ph&aacute;p c&ugrave;ng l&uacute;c. Ch&iacute;nh v&igrave; l&yacute; do n&agrave;y m&agrave; người chơi cần phải cần phải th&ocirc;ng thạo nhiều phương ph&aacute;p th&igrave; sẽ đạt được hiệu quả cao hơn trong c&aacute;c quy tr&igrave;nh soi cầu.</span></p>
             <h2 style="text-align: justify;"><strong>Địa chỉ xem kết quả soi cầu bạch thủ miền Bắc miễn ph&iacute;&nbsp;</strong></h2>
-            <p style="text-align: justify;"><span style="font-weight: 400;">Nếu thời gian kh&ocirc;ng cho ph&eacute;p bạn d&agrave;nh nhiều v&agrave;o những quy tr&igrave;nh soi cầu bạch thủ MB. Bạn c&oacute; thể truy cập xstailoc.com để nhận số đẹp soi cầu XSMB ở bất kỳ phi&ecirc;n n&agrave;o. Chuy&ecirc;n mục n&agrave;y sẽ được cập nhật li&ecirc;n tục v&agrave; mang đến cho c&aacute;c bạn những bộ số v&agrave;ng trong ng&agrave;y.</span></p>
-            <p style="text-align: justify;"><span style="font-weight: 400;">Xem Cầu Bạch Thủ. Cầu Trượt. Cầu 2 nh&aacute;y. KQXS Miền Bắc. KQXS Miền Nam. KQXS Miền Trung được cập nhật nhanh ch&oacute;ng, ch&iacute;nh x&aacute;c tại xstailoc.com</span></p>
+            <p style="text-align: justify;"><span style="font-weight: 400;">Nếu thời gian kh&ocirc;ng cho ph&eacute;p bạn d&agrave;nh nhiều v&agrave;o những quy tr&igrave;nh soi cầu bạch thủ MB. Bạn c&oacute; thể truy cập xosotailoc.vip để nhận số đẹp soi cầu XSMB ở bất kỳ phi&ecirc;n n&agrave;o. Chuy&ecirc;n mục n&agrave;y sẽ được cập nhật li&ecirc;n tục v&agrave; mang đến cho c&aacute;c bạn những bộ số v&agrave;ng trong ng&agrave;y.</span></p>
+            <p style="text-align: justify;"><span style="font-weight: 400;">Xem Cầu Bạch Thủ. Cầu Trượt. Cầu 2 nh&aacute;y. KQXS Miền Bắc. KQXS Miền Nam. KQXS Miền Trung được cập nhật nhanh ch&oacute;ng, ch&iacute;nh x&aacute;c tại xosotailoc.vip</span></p>
         </div>
         <div class="box pad10-5">
             <ul class="list-dot-red">

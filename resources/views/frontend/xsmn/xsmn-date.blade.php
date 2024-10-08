@@ -280,7 +280,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
                     <div class="bold see-more-title">⇒ Ngoài ra bạn có thể xem thêm: kết quả xổ số miên nam XSMN</div>
                     <ul class="list-html-link two-column">
                         <li>Mời bạn <a href="{{route('quay_thu.mn')}}"
-                                       title="quay thử miền Nam">quay thử miền Nam</a> hôm nay để lấy hên trên xstailoc.com
+                                       title="quay thử miền Nam">quay thử miền Nam</a> hôm nay để lấy hên trên xosotailoc.vip
                         </li>
                         <li>Xem thêm <a href="{{route('xsmn')}}"
                                         title="Kết Quả XSMN">kết quả xổ số miền nam XSMN </a> Ngày   <a class="title-a" href="{{route(getRouteDay(getThuNumber($date),'xsmn'))}}" title="XSMN {{getThu(getThuNumber($date))}}">XSMN {{getThu(getThuNumber($date))}}</a></li>
@@ -292,7 +292,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
                         
                                 <div class="box-content">
                             
-                           <p> <strong>Xổ số miền Nam {{getNgay($date)}} </li> - Kết quả xổ số miền Nam XSMN hôm nay nhanh nhất tại xstailoc.com Xổ số miền Nam {{getNgay($date)}}</strong>
+                           <p> <strong>Xổ số miền Nam {{getNgay($date)}} </li> - Kết quả xổ số miền Nam XSMN hôm nay nhanh nhất tại xosotailoc.vip Xổ số miền Nam {{getNgay($date)}}</strong>
                             </p>
                             </li>Trực tiếp XSMN {{getThu(getThuNumber($date))}} ngày Xổ số miền Nam {{getNgay($date)}} </li> nhanh, chính xác nhất.
         
@@ -302,7 +302,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
                             <p><h2> <strong> Các Câu Hỏi Thường Gặp Về Xổ Số Miền Nam {{getNgay($date)}} {{getThu(getThuNumber($date))}}</strong> </h2> </p>
                             <p><h3> <strong> Làm thế nào để biết kết quả xổ số miền Nam XSMN {{getNgay($date)}}</strong>  </h3></p>
         
-                            <p>Kết quả xổ số miền Nam {{getNgay($date)}} được công bố trên các trang web xstailoc.com đề hoặc trên các kênh truyền hình vào mỗi ngày. </p>
+                            <p>Kết quả xổ số miền Nam {{getNgay($date)}} được công bố trên các trang web xosotailoc.vip đề hoặc trên các kênh truyền hình vào mỗi ngày. </p>
         
                             <p><h3> <strong>  Tôi có thể mua vé xổ số miền Nam XSMN ngày {{getNgay($date)}} ở đâu? </strong>  </h3></p>
         
@@ -583,7 +583,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
                 </div>
                     <div> <div class="box-content">
                         
-                       <p> <strong>Xổ số miền Nam {{getNgay($date)}} </li> - Kết quả xổ số miền Nam XSMN hôm nay nhanh nhất tại xstailoc.com Xổ số miền Nam {{getNgay($date)}}</strong>
+                       <p> <strong>Xổ số miền Nam {{getNgay($date)}} </li> - Kết quả xổ số miền Nam XSMN hôm nay nhanh nhất tại xosotailoc.vip Xổ số miền Nam {{getNgay($date)}}</strong>
                         </p>
                         </li>Trực tiếp XSMN {{getThu(getThuNumber($date))}} ngày Xổ số miền Nam {{getNgay($date)}} </li> nhanh, chính xác nhất.
     
@@ -593,7 +593,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
                         <p><h2> <strong> Các Câu Hỏi Thường Gặp Về Xổ Số Miền Nam {{getNgay($date)}} {{getThu(getThuNumber($date))}}</strong> </h2> </p>
                         <p><h3> <strong> Làm thế nào để biết kết quả xổ số miền Nam XSMN {{getNgay($date)}}</strong>  </h3></p>
     
-                        <p>Kết quả xổ số miền Nam {{getNgay($date)}} được công bố trên các trang web xstailoc.com đề hoặc trên các kênh truyền hình vào mỗi ngày. </p>
+                        <p>Kết quả xổ số miền Nam {{getNgay($date)}} được công bố trên các trang web xosotailoc.vip đề hoặc trên các kênh truyền hình vào mỗi ngày. </p>
     
                         <p><h3> <strong>  Tôi có thể mua vé xổ số miền Nam XSMN ngày {{getNgay($date)}} ở đâu? </strong>  </h3></p>
     

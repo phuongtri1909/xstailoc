@@ -40,7 +40,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
                 @foreach($ddXsmn as $item)
                     <?php 
                     $link = $item->link;
-                    $link = str_replace("xoso.site","xstailoc.com",$link);
+                    $link = str_replace("xoso.site","xosotailoc.vip",$link);
                     ?>
                     <li class="clearfix">
                         <h3><a href="{{$link}}"

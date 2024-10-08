@@ -81,7 +81,7 @@
                         href="{{ url()->full() }}">XSMN {{ $str_day }} </a> - Kết quả xổ số miền Nam
                     {{ $str_day }} hàng tuần được phát trực tiếp vào lúc 16:15. xem lại các kết quả XSMN
                     {{ $str_day }} những tuần trước nhanh chóng và chính xác miễn phí lại
-                    xstailoc.com
+                    xosotailoc.vip
                 </span>
             </p>
             <h2><strong>Các tỉnh mở thưởng quay xổ số kiến thiết miền Nam {{ $str_day }}

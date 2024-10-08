@@ -82,8 +82,8 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
         </div>
         <div class="box-content" style="height: auto !important;">
 
-            <p><span style="font-weight: 400;">Cầu L&ocirc; T&ocirc; Trượt. Cầu Loto Trượt. L&ocirc; Trượt. Xem Cầu L&ocirc; t&ocirc; trượt nhanh ch&oacute;ng, ch&iacute;nh x&aacute;c v&agrave; ho&agrave;n to&agrave;n miễn ph&iacute; tại xstailoc.com</span></p>
-                <p><span style="font-weight: 400;">xstailoc.com nơi cập nhật Cầu L&ocirc; T&ocirc; Trượt, L&ocirc; Trượt li&ecirc;n tục, nhanh ch&oacute;ng v&agrave; ch&iacute;nh x&aacute;c.</span></p>
+            <p><span style="font-weight: 400;">Cầu L&ocirc; T&ocirc; Trượt. Cầu Loto Trượt. L&ocirc; Trượt. Xem Cầu L&ocirc; t&ocirc; trượt nhanh ch&oacute;ng, ch&iacute;nh x&aacute;c v&agrave; ho&agrave;n to&agrave;n miễn ph&iacute; tại xosotailoc.vip</span></p>
+                <p><span style="font-weight: 400;">xosotailoc.vip nơi cập nhật Cầu L&ocirc; T&ocirc; Trượt, L&ocirc; Trượt li&ecirc;n tục, nhanh ch&oacute;ng v&agrave; ch&iacute;nh x&aacute;c.</span></p>
                 <h2><strong>L&ocirc; trượt l&agrave; g&igrave;?</strong></h2>
                 <p><span style="font-weight: 400;">L&ocirc; trượt l&agrave; những con l&ocirc; kh&ocirc;ng về trong bảng KQXS. Cụ thể, những con l&ocirc; n&agrave;y kh&ocirc;ng tr&uacute;ng giải thưởng trong bảng KQXS.</span></p>
                 <p><span style="font-weight: 400;">Được biết, miền Bắc c&oacute; 27 giải mở thưởng. Ch&iacute;nh v&igrave; vậy, người chơi sẽ c&oacute; tối thiểu l&agrave; 73 số trượt nếu kh&ocirc;ng xuất hiện trường hợp l&ocirc; về nhiều nh&aacute;y.</span></p>
@@ -110,7 +110,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
                 <p><span style="font-weight: 400;">- Xem l&ocirc; n&agrave;o c&oacute; tần suất về nhiều, nhưng g&atilde;y trong 3-4 ng&agrave;y gần đ&acirc;y th&igrave; lấy n&oacute; nu&ocirc;i loto trượt.</span></p>
                 <p><span style="font-weight: 400;">Từ những gợi &yacute; n&agrave;y, bạn c&oacute; thể bắt l&ocirc; trượt miền Bắc h&ocirc;m nay miễn ph&iacute; với những gợi &yacute; tốt nhất.</span></p>
                 <p><span style="font-weight: 400;">Lưu &yacute;: Mọi th&ocirc;ng tin ở tr&ecirc;n chỉ mang t&iacute;nh chất tham khảo, ch&uacute;c bạn may mắn!</span></p>
-                <p><span style="font-weight: 400;">Xem Cầu Trượt, Cầu Bạch Thủ, Cầu ĐB v&agrave; KQXS 3 Miền được cập nhật li&ecirc;n tục mỗi ng&agrave;y nhanh ch&oacute;ng v&agrave; ch&iacute;nh x&aacute;c tại xstailoc.com</span></p>
+                <p><span style="font-weight: 400;">Xem Cầu Trượt, Cầu Bạch Thủ, Cầu ĐB v&agrave; KQXS 3 Miền được cập nhật li&ecirc;n tục mỗi ng&agrave;y nhanh ch&oacute;ng v&agrave; ch&iacute;nh x&aacute;c tại xosotailoc.vip</span></p>
                
 
             <p style="text-align:center"><strong><a href="{{route('xsmb')}}" title="XS"><span

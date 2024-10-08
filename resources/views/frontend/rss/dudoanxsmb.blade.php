@@ -5,7 +5,7 @@
 
         <description>Dự đoán XSMB</description>
         <!-- <language>en-gb</language> -->
-        <copyright>xstailoc.com</copyright>
+        <copyright>xosotailoc.vip</copyright>
         <lastBuildDate>{{ now()->format('d-m-Y H:i:s') }}</lastBuildDate>
         <ttl>20</ttl>
             @foreach($items as $item)

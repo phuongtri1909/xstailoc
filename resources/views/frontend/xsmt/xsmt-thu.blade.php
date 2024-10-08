@@ -75,7 +75,7 @@
                         href="{{ url()->full() }}">XSMT {{ $str_day }} </a> - Kết quả xổ số miền Trung
                     {{ $str_day }} hàng tuần được phát trực tiếp vào lúc 17:15. xem lại các kết quả XSMT
                     {{ $str_day }} những tuần trước nhanh chóng và chính xác miễn phí lại
-                    xstailoc.com
+                    xosotailoc.vip
                 </span>
             </p>
             <h2><strong>Các tỉnh mở thưởng quay xổ số kiến thiết miền Trung {{ $str_day }}

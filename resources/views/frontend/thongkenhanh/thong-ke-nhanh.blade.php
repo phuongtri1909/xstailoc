@@ -118,8 +118,8 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
             {{--<h3 class="tit-mien"><strong>Thảo luận</strong></h3>  --}}
         {{--</div>--}}
         <div class="box-content">
-           <p style="text-align: justify;"><span style="font-weight: 400;">Thống K&ecirc; nhanh. <a title="Thống K&ecirc; nhanh XSMB" href="/thong-ke-nhanh"><strong>Thống K&ecirc; nhanh XSMB</strong></a>. Xem Bảng Thống K&ecirc; nhanh Xổ Số Miền Bắc được cập nhật li&ecirc;n tục h&agrave;ng ng&agrave;y tại xstailoc.com</span></p>
-            <p style="text-align: justify;"><span style="font-weight: 400;">xstailoc.com nơi cập nhật Thống k&ecirc; nhanh XSMB nhanh ch&oacute;ng, ch&iacute;nh x&aacute;c v&agrave; ho&agrave;n to&agrave;n miễn ph&iacute;.</span></p>
+           <p style="text-align: justify;"><span style="font-weight: 400;">Thống K&ecirc; nhanh. <a title="Thống K&ecirc; nhanh XSMB" href="/thong-ke-nhanh"><strong>Thống K&ecirc; nhanh XSMB</strong></a>. Xem Bảng Thống K&ecirc; nhanh Xổ Số Miền Bắc được cập nhật li&ecirc;n tục h&agrave;ng ng&agrave;y tại xosotailoc.vip</span></p>
+            <p style="text-align: justify;"><span style="font-weight: 400;">xosotailoc.vip nơi cập nhật Thống k&ecirc; nhanh XSMB nhanh ch&oacute;ng, ch&iacute;nh x&aacute;c v&agrave; ho&agrave;n to&agrave;n miễn ph&iacute;.</span></p>
             <p style="text-align: justify;"><strong>Giới thiệu về thống k&ecirc; nhanh</strong></p>
             <p style="text-align: justify;"><span style="font-weight: 400;">Thống k&ecirc; nhanh Xổ Số Miền Bắc được cập nhật li&ecirc;n tục mỗi ng&agrave;y sau khi c&oacute; kết quả mở thưởng v&agrave;o 18h30p.</span></p>
             <p style="text-align: justify;"><span style="font-weight: 400;">Bảng thống k&ecirc; nhanh cung cấp cho người xem th&ocirc;ng tin của c&aacute;c bộ số từ 00 tới 99 trong khoảng thời gian gần đ&acirc;y.</span></p>
@@ -136,7 +136,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
             <p style="text-align: justify;"><span style="font-weight: 400;">- Xem nhanh bộ số của tất c&aacute;c giải theo khoảng thời gian t&ugrave;y chọn.</span></p>
             <p style="text-align: justify;"><span style="font-weight: 400;">- TK nhanh bộ số giải đặc biệt.</span></p>
             <p style="text-align: justify;"><span style="font-weight: 400;">Sử dụng thống k&ecirc; nhanh kết hợp c&ugrave;ng với thống k&ecirc; giải đặc biệt để t&igrave;m ra l&ocirc; rơi c&oacute; tỷ lệ tr&uacute;ng cao nhất sẽ về trong c&aacute;c kỳ liền kề tiếp theo.</span></p>
-            <p style="text-align: justify;"><span style="font-weight: 400;">Thống k&ecirc; nhanh. Tk nhanh. Thống k&ecirc; nhanh Xổ Số Miền Bắc. Xem thống k&ecirc; nhanh h&ocirc;m nay ch&iacute;nh x&aacute;c v&agrave; miễn ph&iacute; tại <a title="xstailoc.com" href="/">xstailoc.com</a></span></p>
+            <p style="text-align: justify;"><span style="font-weight: 400;">Thống k&ecirc; nhanh. Tk nhanh. Thống k&ecirc; nhanh Xổ Số Miền Bắc. Xem thống k&ecirc; nhanh h&ocirc;m nay ch&iacute;nh x&aacute;c v&agrave; miễn ph&iacute; tại <a title="xosotailoc.vip" href="/">xosotailoc.vip</a></span></p>
         </div>
         <script>
         </script>

@@ -84,8 +84,8 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
         </button>
         
           <div class="box-content">
-          <p><span style="font-weight: 400;"><a title="Sớ Đầu Đu&ocirc;i Miền Trung" href="/so-dau-duoi-xsmn"><strong>Sớ Đầu Đu&ocirc;i Miền Trung</strong></a>. Xem Sớ Đầu Đu&ocirc;i Miền Trung chuẩn nhất tại <a title="xstailoc.com" href="/">xstailoc.com</a></span></p>
-            <p><span style="font-weight: 400;">xstailoc.com nơi cập nhật Sớ Đầu Đu&ocirc;i Miền Trung ch&iacute;nh x&aacute;c v&agrave; nhanh ch&oacute;ng nhất.</span></p>
+          <p><span style="font-weight: 400;"><a title="Sớ Đầu Đu&ocirc;i Miền Trung" href="/so-dau-duoi-xsmn"><strong>Sớ Đầu Đu&ocirc;i Miền Trung</strong></a>. Xem Sớ Đầu Đu&ocirc;i Miền Trung chuẩn nhất tại <a title="xosotailoc.vip" href="/">xosotailoc.vip</a></span></p>
+            <p><span style="font-weight: 400;">xosotailoc.vip nơi cập nhật Sớ Đầu Đu&ocirc;i Miền Trung ch&iacute;nh x&aacute;c v&agrave; nhanh ch&oacute;ng nhất.</span></p>
             <p><strong>Sớ Đầu Đu&ocirc;i Miền Trung l&agrave; g&igrave;?</strong></p>
             <p><span style="font-weight: 400;">Sớ đầu đu&ocirc;i miền Trung l&agrave; phương ph&aacute;p thống k&ecirc; nhanh 2 con loto đầu ở giải 8 v&agrave; 2 con loto cuối ở giải Đặc Biệt. Sớ đầu đu&ocirc;i miền Trung gi&uacute;p bạn thống k&ecirc; được những con loto n&agrave;o hay về, &iacute;t về hay l&acirc;u chưa về ở giải đầu v&agrave; giải cuối của XSMB.</span></p>
             <p><span style="font-weight: 400;">C&oacute; thể xem sớ đầu đu&ocirc;i miền Trung của tất cả c&aacute;c ng&agrave;y li&ecirc;n tục hoặc xem theo thứ trong tuần. Bảng thống k&ecirc; sớ đầu đu&ocirc;i miền Trung hiển thị kết quả của 100 lần quay thưởng gần nhất.&nbsp;</span></p>
@@ -104,7 +104,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
             <p><span style="font-weight: 400;">Một c&aacute;ch kh&aacute;c để dễ d&agrave;ng t&igrave;m kiếm con số n&agrave;y dựa tr&ecirc;n những g&igrave; ch&uacute;ng t&ocirc;i đ&atilde; chia sẻ l&agrave; gh&eacute;p n&oacute; với giải s&aacute;u, thường sẽ c&oacute; nhiều số hơn. Bạn c&oacute; thể gh&eacute;p với c&aacute;c cặp số như sau: 86 &ndash; 87 &ndash; 29 &ndash; 25. Tuy nhi&ecirc;n, để c&oacute; thể đạt hiệu quả tối đa, bạn n&ecirc;n xen kẽ phương ph&aacute;p n&agrave;y để tỷ lệ thắng cao.&nbsp;</span></p>
             <p><strong>Gh&eacute;p với giải 7</strong></p>
             <p><span style="font-weight: 400;">Khi &aacute;p dụng phương ph&aacute;p đu&ocirc;i giải 7, bạn thường sẽ c&oacute; &iacute;t cặp số hơn. V&iacute; dụ, 56, 7 tương ứng với 22-68 v&agrave; 59. Tại đ&acirc;y, người chơi sẽ c&oacute; con l&ocirc; như sau: 52-56-69. Như vậy khi gh&eacute;p đu&ocirc;i GĐB với đầu giải bảy, đầu giải nhất. C&aacute;c GĐB kết th&uacute;c bằng số 7. Người chơi sẽ c&oacute; những cặp số rất đẹp may mắn để đặt cược.</span></p>
-            <p><span style="font-weight: 400;">Xem Sớ Đầu Đu&ocirc;i, Sớ Đầu Đu&ocirc;i Miền Trung, Sớ Đầu Đu&ocirc;i Miền Nam, Sớ Đầu Đu&ocirc;i Miền Bắc được cập nhật li&ecirc;n tục, ch&iacute;nh x&aacute;c tại xstailoc.com</span></p>
+            <p><span style="font-weight: 400;">Xem Sớ Đầu Đu&ocirc;i, Sớ Đầu Đu&ocirc;i Miền Trung, Sớ Đầu Đu&ocirc;i Miền Nam, Sớ Đầu Đu&ocirc;i Miền Bắc được cập nhật li&ecirc;n tục, ch&iacute;nh x&aacute;c tại xosotailoc.vip</span></p>
            
         </div>
 

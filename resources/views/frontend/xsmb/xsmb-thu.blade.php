@@ -67,7 +67,7 @@
                     {{ $str_day }}</a> - Kết quả xổ số miền Bắc {{ $str_day }} hàng tuần được phát trực tiếp vào
                 lúc 18:15, xem
                 lại các kết quả <a style="text-decoration: underline" href="{{ route('xsmb') }}" title="XSMB">XSMB</a>
-                {{ $str_day }} những tuần trước nhanh chóng và chính xác miễn phí tại xstailoc.com</p>
+                {{ $str_day }} những tuần trước nhanh chóng và chính xác miễn phí tại xosotailoc.vip</p>
 
             @switch($str_day)
                 @case('Thứ 2')

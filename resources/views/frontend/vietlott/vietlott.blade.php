@@ -1,8 +1,8 @@
 @extends('frontend.layouts.app')
 
-@section('title','Xổ Số Vietlott - XS Vietlott - KQXS Vietlott - Kết quả xổ số Vietlott hôm nay tại xstailoc.com')
+@section('title','Xổ Số Vietlott - XS Vietlott - KQXS Vietlott - Kết quả xổ số Vietlott hôm nay tại xosotailoc.vip')
 @section('decription','Vietlott - XS Vietlott - KQXS Vietlott ✅ - Kết quả xổ số V KQXS ietlott hôm nay được cập nhật nhanh nhất, chính xác nhất, mang cơ hội may mắn đến cho mọi người')
-@section('h1','Xổ Số Vietlott - XS Vietlott - KQXS Vietlott - Kết quả xổ số Vietlott hôm nay xstailoc.com')
+@section('h1','Xổ Số Vietlott - XS Vietlott - KQXS Vietlott - Kết quả xổ số Vietlott hôm nay xosotailoc.vip')
 
 @section('breadcrumb')
     <div class="linkway">
@@ -178,7 +178,7 @@
         </div>
         <div class="box-content">
                               
-                <p><span style="font-weight: 400;"><strong><a href="{{route('vietlott')}}" title="XS Vietlott"><span style="color:#0000FF"> Kết Quả XS Vietlott</span> </a></strong>. KQXS Vietlott. Kết Quả Xổ Số Vietlott. xstailoc.com nơi cập nhật Kết quả Xổ Số Vietlott nhanh v&agrave; ch&iacute;nh x&aacute;c nhất.</span></p>
+                <p><span style="font-weight: 400;"><strong><a href="{{route('vietlott')}}" title="XS Vietlott"><span style="color:#0000FF"> Kết Quả XS Vietlott</span> </a></strong>. KQXS Vietlott. Kết Quả Xổ Số Vietlott. xosotailoc.vip nơi cập nhật Kết quả Xổ Số Vietlott nhanh v&agrave; ch&iacute;nh x&aacute;c nhất.</span></p>
                 
             <p><span style="font-weight: 400;">Xổ số Vietlott mang đến những sản phẩm xổ số tự chọn điện to&aacute;n minh bạch, cơ hội tốt hơn cho cộng đồng v&agrave; ph&uacute;c lợi x&atilde; hội.</span></p>
             <h2><strong>T&igrave;m hiểu về Xổ số Vietlott</strong></h2>
@@ -202,7 +202,7 @@
             <p><span style="font-weight: 400;">- Xổ số Mega 6/45:&nbsp; Bắt đầu quay thưởng v&agrave;o 18h00 ng&agrave;y thứ 4, thứ 6 v&agrave; Chủ nhật h&agrave;ng tuần.</span></p>
             <p><span style="font-weight: 400;">- Xổ số Mega 6/55:&nbsp; Bắt đầu quay thưởng v&agrave;o 18h00 ng&agrave;y thứ 3, thứ 4 v&agrave; 7 h&agrave;ng tuần.</span></p>
             <p><span style="font-weight: 400;"><strong><a href="{{route('vietlott')}}" title="XS Vietlott"><span style="color:#0000FF"> Kết Quả XS Vietlott</span> </a></strong>. với chơi đơn giản, gi&aacute; trị giải thưởng cao mang đến nhiều cơ hội tr&uacute;ng thưởng cho người chơi, g&oacute;p phần v&agrave;o c&ocirc;ng &iacute;ch x&atilde; hội.</span></p>
-            <p><span style="font-weight: 400;">Kết quả Xổ Số Vietlott được cập nhật li&ecirc;n tục, nhanh ch&oacute;ng v&agrave; ch&iacute;nh x&aacute;c tại xstailoc.com</span></p>
+            <p><span style="font-weight: 400;">Kết quả Xổ Số Vietlott được cập nhật li&ecirc;n tục, nhanh ch&oacute;ng v&agrave; ch&iacute;nh x&aacute;c tại xosotailoc.vip</span></p>
         </div>
     </div>
 @endsection
