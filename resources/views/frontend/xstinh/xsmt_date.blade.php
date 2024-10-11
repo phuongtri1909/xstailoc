@@ -308,7 +308,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
                     
                       <div class="box-content">
                     
-                   <p> <strong> XS{{strtoupper($province->short_name)}} {{$province->name}}  {{getNgay($date)}} - Kết quả xổ số {{$province->name}} hôm nay nhanh nhất tại xosotailoc.vip Xổ số {{getNgay($date)}}</strong>
+                   <p> <strong> XS{{strtoupper($province->short_name)}} {{$province->name}}  {{getNgay($date)}} - Kết quả xổ số {{$province->name}} hôm nay nhanh nhất tại xosotailoc.live Xổ số {{getNgay($date)}}</strong>
                     </p>
                     </li>Trực tiếp {{strtoupper($province->short_name)}} ngày hôm nay nhanh XS{{strtoupper($province->short_name)}} {{getNgay($date)}} , chính xác nhất.</li>
 
@@ -319,7 +319,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
                     <p><h2> <strong> Các Câu Hỏi Thường Gặp Về Xổ Số XS{{strtoupper($province->short_name)}} {{$province->name}}  {{getNgay($date)}}</strong> </h2> </p>
                     <p><h3> <strong> Làm thế nào để biết kết quả xổ số XS{{strtoupper($province->short_name)}} {{$province->name}}  {{getNgay($date)}}</strong>  </h3></p>
 
-                    <p>Kết quả xổ số XS{{strtoupper($province->short_name)}} {{$province->name}}  {{getNgay($date)}} được công bố trên các trang web xosotailoc.vip đề hoặc trên các kênh truyền hình vào mỗi ngày {{getNgay($date)}}. </p>
+                    <p>Kết quả xổ số XS{{strtoupper($province->short_name)}} {{$province->name}}  {{getNgay($date)}} được công bố trên các trang web xosotailoc.live đề hoặc trên các kênh truyền hình vào mỗi ngày {{getNgay($date)}}. </p>
 
                     <p><h3> <strong>  Tôi có thể mua vé xổ số XS{{strtoupper($province->short_name)}} {{$province->name}}  {{getNgay($date)}} ở đâu? </strong>  </h3></p>
 
@@ -568,7 +568,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
                 <div> 
                 <div class="box-content">
                     
-                   <p> <strong> XS{{strtoupper($province->short_name)}} {{$province->name}}  {{getNgay($date)}} - Kết quả xổ số {{$province->name}} hôm nay {{getNgay($date)}} nhanh nhất tại xosotailoc.vip Xổ số {{getNgay($date)}}</strong>
+                   <p> <strong> XS{{strtoupper($province->short_name)}} {{$province->name}}  {{getNgay($date)}} - Kết quả xổ số {{$province->name}} hôm nay {{getNgay($date)}} nhanh nhất tại xosotailoc.live Xổ số {{getNgay($date)}}</strong>
                     </p>
                     </li>Trực tiếp {{strtoupper($province->short_name)}} ngày hôm nay {{getNgay($date)}} nhanh, chính xác nhất.</li>
 
@@ -579,7 +579,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
                     <p><h2> <strong> Các Câu Hỏi Thường Gặp Về Xổ Số XS {{strtoupper($province->short_name)}} {{$province->name}}  {{getNgay($date)}}</strong> </h2> </p>
                     <p><h3> <strong> Làm thế nào để biết kết quả xổ số XS{{strtoupper($province->short_name)}} {{$province->name}}  {{getNgay($date)}}</strong>  </h3></p>
 
-                    <p>Kết quả xổ số XS{{strtoupper($province->short_name)}} {{$province->name}}  {{getNgay($date)}} được công bố trên các trang web xosotailoc.vip đề hoặc trên các kênh truyền hình vào mỗi ngày. </p>
+                    <p>Kết quả xổ số XS{{strtoupper($province->short_name)}} {{$province->name}}  {{getNgay($date)}} được công bố trên các trang web xosotailoc.live đề hoặc trên các kênh truyền hình vào mỗi ngày. </p>
 
                     <p><h3> <strong>  Tôi có thể mua vé xổ số XS{{strtoupper($province->short_name)}} {{$province->name}}  {{getNgay($date)}} ở đâu? </strong>  </h3></p>
 

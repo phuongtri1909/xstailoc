@@ -221,7 +221,7 @@
     <section class="ft-sesion-bt">
         <div class="border-top container py-3 d-flex pt-4 justify-content-between flex-wrap text-left">
             <div class="ft-bt-el">
-                <span style="line-height: 40px">Copyright © 2024 <a href="{{ route('home') }}">xosotailoc.vip</a></span><br>
+                <span style="line-height: 40px">Copyright © 2024 <a href="{{ route('home') }}">xosotailoc.live</a></span><br>
             </div>
         </div>
     </section>

@@ -167,8 +167,8 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
             <p dir="ltr"><span style="font-size:14px">- Loại bỏ những bộ số gan&nbsp;trên 18 kỳ quay số.</span></p>
 
             <p dir="ltr"><span style="font-size:14px">- Thường thì khi các cặp xổ số trong bảng có thời gian gần với ngày cực đại lâu ra của nó sẽ có khả năng về kết quả miền trung cao hơn.</span></p>
-            <p><span style="font-weight: 400;">L&ocirc; gan XSMT. Thống k&ecirc; L&ocirc; Gan XSMT l&acirc;u chưa về. Xem Bảng <strong>Thống K&ecirc; L&ocirc; Gan Xổ Số Miền Trung</strong> nhanh ch&oacute;ng, ch&iacute;nh x&aacute;c tại xosotailoc.vip</span></p>
-            <p><span style="font-weight: 400;">xosotailoc.vip nơi cập nhật Thống k&ecirc; l&ocirc; gan Miền Trung nhanh ch&oacute;ng, kịp thời, ch&iacute;nh x&aacute;c nhất v&agrave; ho&agrave;n to&agrave;n miễn ph&iacute;.</span></p>
+            <p><span style="font-weight: 400;">L&ocirc; gan XSMT. Thống k&ecirc; L&ocirc; Gan XSMT l&acirc;u chưa về. Xem Bảng <strong>Thống K&ecirc; L&ocirc; Gan Xổ Số Miền Trung</strong> nhanh ch&oacute;ng, ch&iacute;nh x&aacute;c tại xosotailoc.live</span></p>
+            <p><span style="font-weight: 400;">xosotailoc.live nơi cập nhật Thống k&ecirc; l&ocirc; gan Miền Trung nhanh ch&oacute;ng, kịp thời, ch&iacute;nh x&aacute;c nhất v&agrave; ho&agrave;n to&agrave;n miễn ph&iacute;.</span></p>
             <h2><strong>Thống k&ecirc; L&ocirc; Gan Miền Trung l&agrave; g&igrave;?</strong></h2>
             <p><span style="font-weight: 400;">Thống k&ecirc; l&ocirc; gan Miền Trung l&agrave; thống k&ecirc; những cặp số l&ocirc; t&ocirc; (2 số cuối) l&acirc;u chưa về tr&ecirc;n bảng KQXS Miền Trung trong một khoảng thời gian, v&iacute; dụ như 5 ng&agrave;y hay 10 ng&agrave;y. Đ&acirc;y l&agrave; những con loto gan lỳ kh&ocirc;ng chịu xuất hiện. Số ng&agrave;y gan (kỳ gan) l&agrave; số lần mở thưởng m&agrave; bộ số đ&oacute; chưa về đến h&ocirc;m nay.</span></p>
             <p><span style="font-weight: 400;">V&iacute; dụ: Với bi&ecirc;n độ gan = 10, bạn sẽ xem được thống k&ecirc; c&aacute;c bộ số chưa về trong 10 ng&agrave;y t&iacute;nh đến ng&agrave;y h&ocirc;m nay.</span></p>
@@ -193,8 +193,8 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
             <h2><strong>C&aacute;ch đ&aacute;nh số theo l&ocirc; gan miền Trung hiệu quả:</strong></h2>
             <p><span style="font-weight: 400;">- Loại bỏ những bộ số gan tr&ecirc;n 18 kỳ quay số.</span></p>
             <p><span style="font-weight: 400;">- Thường th&igrave; khi c&aacute;c cặp xổ số trong bảng c&oacute; thời gian gần với ng&agrave;y cực đại l&acirc;u ra của n&oacute; sẽ c&oacute; khả năng về kết quả miền trung cao hơn.</span></p>
-            <p><span style="font-weight: 400;">xosotailoc.vip cung cấp cho bạn thống k&ecirc; l&ocirc; gan Miền Trung ch&iacute;nh x&aacute;c nhất. Với t&iacute;nh năng n&agrave;y, người chơi xổ số sẽ c&oacute; th&ecirc;m th&ocirc;ng tin tham khảo để chọn cho m&igrave;nh con số may mắn, mang đến cơ hội tr&uacute;ng thưởng cao hơn. Ch&uacute;c c&aacute;c bạn may mắn!</span></p>
-            <p><span style="font-weight: 400;">Thống k&ecirc; l&ocirc; gan. Tk l&ocirc;. Thống k&ecirc; l&ocirc; gan Miền Trung. L&ocirc; gan Miền Trung. L&ocirc; Gan. Xem thống k&ecirc; l&ocirc; gan h&ocirc;m nay nhanh ch&oacute;ng v&agrave; ch&iacute;nh x&aacute;c nhất tại xosotailoc.vip.</span></p>
+            <p><span style="font-weight: 400;">xosotailoc.live cung cấp cho bạn thống k&ecirc; l&ocirc; gan Miền Trung ch&iacute;nh x&aacute;c nhất. Với t&iacute;nh năng n&agrave;y, người chơi xổ số sẽ c&oacute; th&ecirc;m th&ocirc;ng tin tham khảo để chọn cho m&igrave;nh con số may mắn, mang đến cơ hội tr&uacute;ng thưởng cao hơn. Ch&uacute;c c&aacute;c bạn may mắn!</span></p>
+            <p><span style="font-weight: 400;">Thống k&ecirc; l&ocirc; gan. Tk l&ocirc;. Thống k&ecirc; l&ocirc; gan Miền Trung. L&ocirc; gan Miền Trung. L&ocirc; Gan. Xem thống k&ecirc; l&ocirc; gan h&ocirc;m nay nhanh ch&oacute;ng v&agrave; ch&iacute;nh x&aacute;c nhất tại xosotailoc.live.</span></p>
         </div>
     </div>
 @endsection
