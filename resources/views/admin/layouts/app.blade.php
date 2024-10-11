@@ -170,6 +170,42 @@
                             </li>
                         </ul>
                     </li>
+                    <li class="nav-item dropdown">
+                        <a class="dropdown-toggle" href="{{route('link-footer.index')}}">
+                                <span class="icon-holder">
+                                    <i class="fas fa-link"></i>
+                                </span>
+                            <span class="title">Text link footer</span>
+                        </a>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="dropdown-toggle" href="{{route('link-header.index')}}">
+                                <span class="icon-holder">
+                                    <i class="fas fa-paperclip"></i>
+                                </span>
+                            <span class="title">Text link header<header></header></span>
+                        </a>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="dropdown-toggle" href="{{route('content_html', 'header')}}">
+                                <span class="icon-holder">
+                                    <i class="fas fa-file-code"></i>
+                                </span>
+                            <span class="title">Nội dung header</span>
+                        </a>
+                    </li>
+
+                    <li class="nav-item dropdown">
+                        <a class="dropdown-toggle" href="{{route('content_html', 'footer')}}">
+                                <span class="icon-holder">
+                                    <i class="far fa-file-code"></i>
+                                </span>
+                            <span class="title">Nội dung footer</span>
+                        </a>
+                    </li>
+
                 </ul>
             </div>
         </div>

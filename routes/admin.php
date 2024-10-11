@@ -1,11 +1,14 @@
 <?php
-use App\Http\Controllers\Admin\LoginController;
 use App\Http\Controllers\Admin\HomeController;
+use App\Http\Controllers\Admin\HtmlContentController;
+use App\Http\Controllers\Admin\NewsController;
 use App\Http\Controllers\Admin\SoMoController;
 use App\Http\Controllers\Admin\UserController;
+use App\Http\Controllers\Admin\LoginController;
 use App\Http\Controllers\Admin\XSLiveController;
 use App\Http\Controllers\Admin\SoMoNewController;
-use App\Http\Controllers\Admin\NewsController;
+use App\Http\Controllers\Admin\LinkFooterController;
+use App\Http\Controllers\Admin\LinkHeaderController;
 
 Route::get('login', [LoginController::class, 'login'])->name('login');
 Route::post('login', [LoginController::class, 'store'])->name('login.post');
@@ -27,6 +30,12 @@ Route::middleware(['auth'])->group(function () {
     Route::resource('somonew', SoMoNewController::class);
     Route::resource('news', NewsController::class);
     Route::resource('user', UserController::class);
+
+    Route::resource('link-footer', LinkFooterController::class)->except(['show','create','edit']);
+    Route::resource('link-header', LinkHeaderController::class)->except(['show','create','edit']);
+
+    Route::get('content_html/{key}', [HtmlContentController::class, 'index'])->name('content_html');
+    Route::post('content_html/{key}', [HtmlContentController::class, 'update'])->name('content_html.update');
 });
 
 

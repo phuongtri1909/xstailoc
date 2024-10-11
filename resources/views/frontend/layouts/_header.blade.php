@@ -46,6 +46,7 @@
     <link rel='index' title='Kết quả xổ số' href='{{route('home')}}'/>
     <link rel="image_src" type="image/jpeg" href="{{url('frontend/images/xo-so-tai-loc.png')}}">
     <link rel="shortcut icon" size="48x48" href="{{url('frontend/images/favicon.png')}}">
+    <link rel="icon" href="{{asset('frontend/images/favicon.png')}}" type="image/png/x-icon">
     <meta name="theme-color" content="#ED1C25">
     <meta name="REVISIT-AFTER" content="1 DAYS">
     <meta name="viewport"
@@ -54,87 +55,14 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer">
     <link rel="stylesheet" type="text/css" href="{{url('frontend/css/main.css')}}" media="all">
     <script src="{{url('frontend/js/jquery.3.4.1.min.js')}}"></script>
-    <meta name="google-site-verification" content="-jeDjVxv3_RhUzROsfFN4IvoaeeVujmmEkNoq6wc0gQ" />
-     <!-- Google Adsense Xac Thuc  -->
-    <meta name="google-adsense-account" content="ca-pub-2755937406534249">
-     <!-- Google Adsenser  -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2755937406534249"
-     crossorigin="anonymous"></script>
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GGPBW001XW"></script>
-        <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','G-GGPBW001XW');</script>
-    <!-- End Google Tag Manager -->
-    
+   
+    @php
+        $htmlContent = \App\Models\HtmlContent::where('key', 'header')->first();
+    @endphp
 
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-69HEMCHHN2');
-    </script>
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "EntertainmentBusiness",
-      "name": "Xổ Số Tài Lộc",
-      "alternateName": "KQXS - Xổ Số Hôm Nay - Trực Tiếp Xổ Số - Kết Quả Xổ Số 3 Miền Chính Xác Nhất",
-      "@id": "https://xosotailoc.live/",
-      "logo": "https://xosotailoc.live/frontend/images/xo-so-tai-loc.png",
-      "image": "https://xosotailoc.live/frontend/images/xo-so-tai-loc.png",
-      "description": "KQXS - Trực tiếp  xổ số hôm nay nhanh và chính xác nhất từ trường quay xổ số hàng ngày. Xem kết quả Xổ số 3 miền siêu chuẩn miễn phí",
-      "hasMap": "https://maps.app.goo.gl/FnALGYfJhmExBt8T6",
-      "url": "https://xosotailoc.live/",
-      "telephone": "0936656929",
-      "priceRange": "100000VND-100000000VND",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "118-120, Đường B2, Phường An Lợi Đông",
-        "addressLocality": "Tp. Thủ Đức",
-    	"addressRegion": "Tp.Hồ Chí Minh",
-        "postalCode": "700000",
-        "addressCountry": "VN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 10.775253,
-        "longitude": 106.729585
-      },
-      "openingHoursSpecification": {
-        "@type": "OpeningHoursSpecification",
-        "dayOfWeek": [
-          "Monday",
-          "Tuesday",
-          "Wednesday",
-          "Thursday",
-          "Friday",
-          "Saturday",
-          "Sunday"
-        ],
-        "opens": "00:00",
-        "closes": "23:59"
-      },
-      "sameAs": [
-        "https://twitter.com/SiteXo11983",
-        "https://www.reddit.com/user/xososite/hidden/",
-        "https://www.facebook.com/xososite",
-        "https://xosositevn.blogspot.com/",
-        "https://www.scoop.it/u/x-s-site",
-        "https://tapas.io/xosositevn",
-        "https://www.flickr.com/photos/199475260@N04/",
-        "https://500px.com/p/xosositevn",
-        "https://sites.google.com/view/xososite/trang-ch%E1%BB%A7",
-        "https://www.goodreads.com/user/show/171294988-xososite",
-        "www.linkedin.com/in/site-xổ-số-a8b33329a",
-        "https://wellfound.com/u/le-van-dam"
-      ]
-    }
-    </script>
+    @if ($htmlContent)
+        {!! $htmlContent->content !!}
+    @endif
 </head>
 <body>
 <div id="menu-mobile-backdrop" onclick="showDrawerMenu()"></div>
@@ -176,7 +104,54 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             justify-content: center;
         }
     }
+
+        @keyframes sparkle {
+            0% {
+                background-position: 0% 50%;
+            }
+            50% {
+                background-position: 100% 50%;
+            }
+            100% {
+                background-position: 0% 50%;
+            }
+        }
+
+        .sparkle {
+            background-size: 400% 400%;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            animation: sparkle 3s ease infinite;
+        }
+
         </style>
+
+        <div class="bg-white container mt-3">
+            <div class="text-center">
+                @foreach ($linkHeaders as $item)
+                    <?php
+                        // Tạo 3 màu random dạng hex cho gradient
+                        $color1 = sprintf('#%06X', mt_rand(0, 0xFFFFFF));
+                        $color2 = sprintf('#%06X', mt_rand(0, 0xFFFFFF));
+                        $color3 = sprintf('#%06X', mt_rand(0, 0xFFFFFF));
+                    ?>
+                    <a class="fw-bold sparkle" style="
+                        background: linear-gradient(270deg, {{ $color1 }}, {{ $color2 }}, {{ $color3 }});
+                        background-size: 400% 400%;
+                        -webkit-background-clip: text;
+                        -webkit-text-fill-color: transparent;
+                        margin-right: 10px;
+                        margin-bottom: 10px;
+                        display: inline-block;
+                        color: #0000008c;
+                        text-decoration: underline;
+                        " href="{{ $item->link }}">
+                        {{ $item->title }}
+                    </a>
+                @endforeach
+            </div>
+        </div>
+
         <div class="nav-pc" id="nav-horizontal">
             <ul class="main nav-horizontal clearfix" id="nav-horizontal-list"> 
                 <li class="menu-header dsp-mobile" style="min-height: 40px">

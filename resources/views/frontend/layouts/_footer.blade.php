@@ -166,6 +166,53 @@
 
             </div>
             <!-- Grid row -->
+
+            <style>
+            @keyframes sparkle {
+                0% {
+                    background-position: 0% 50%;
+                }
+                50% {
+                    background-position: 100% 50%;
+                }
+                100% {
+                    background-position: 0% 50%;
+                }
+            }
+    
+            .sparkle {
+                background-size: 400% 400%;
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+                animation: sparkle 3s ease infinite;
+            }
+    
+            </style>
+    
+            <div class="bg-white container mt-3">
+                <div class="text-center">
+                    @foreach ($links_footer as $item)
+                        <?php
+                            // Tạo 3 màu random dạng hex cho gradient
+                            $color1 = sprintf('#%06X', mt_rand(0, 0xFFFFFF));
+                            $color2 = sprintf('#%06X', mt_rand(0, 0xFFFFFF));
+                            $color3 = sprintf('#%06X', mt_rand(0, 0xFFFFFF));
+                        ?>
+                        <a class="fw-bold sparkle" style="
+                            background: linear-gradient(270deg, {{ $color1 }}, {{ $color2 }}, {{ $color3 }});
+                            background-size: 400% 400%;
+                            -webkit-background-clip: text;
+                            -webkit-text-fill-color: transparent;
+                            margin-right: 10px;
+                            margin-bottom: 10px;
+                            display: inline-block;
+                            color: #0000008c;
+                            " href="{{ $item->link }}">
+                            {{ $item->title }}
+                        </a>
+                    @endforeach
+                </div>
+            </div>
         </div>
     </section>
     <!-- Section: Links  -->
@@ -267,11 +314,13 @@
 
 //    xsCommon.paragraphStyle(["paragraph", "box-html"]);
 </script>
- <!-- Code  Quảng Cáo  AT -->
+    @php
+        $htmlContent = \App\Models\HtmlContent::where('key', 'footer')->first();
+    @endphp
 
-{{-- <div id="atn-6e2713a6efee97bacb63e52c54f0ada0" style="position:fixed;right:20px;top:40%;z-index:9999"><script async src="https://jsc.yodimedia.com/code/6/e/6e2713a6efee97bacb63e52c54f0ada0.js" crossorigin="anonymous"></script></div> --}}
-
- <!-- End Code  Quảng Cáo  AT -->
+    @if ($htmlContent)
+        {!! $htmlContent->content !!}
+    @endif
  
  
 </body>
