@@ -207,8 +207,8 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
 
             <p><strong>Xem kết quả&nbsp;tối nay nhanh và chính xác nhất tại:&nbsp;</strong><strong><a href="{{route('xsmb')}}" title="Xổ số miền Bắc"><span style="color:#FF0000">Xổ số miền Bắc</span></a></strong></p>
             
-           <p><span style="font-weight: 400;">Thống K&ecirc; Đầu Đu&ocirc;i Loto <a title="Xổ Số Miền Bắc" href="/xsmb-xo-so-mien-bac"><strong>Xổ Số Miền Bắc</strong></a>. TK Đầu đu&ocirc;i Loto XSMB. Xem Bảng Thống K&ecirc; Đầu Đu&ocirc;i Loto Xổ Số Miền Bắc nhanh ch&oacute;ng, ch&iacute;nh x&aacute;c tại xosotailoc.live</span></p>
-            <p><span style="font-weight: 400;">xosotailoc.live nơi cập nhật thống k&ecirc; Đầu đu&ocirc;i Loto Miền Bắc nhanh ch&oacute;ng, ch&iacute;nh x&aacute;c nhất.</span></p>
+           <p><span style="font-weight: 400;">Thống K&ecirc; Đầu Đu&ocirc;i Loto <a title="Xổ Số Miền Bắc" href="/xsmb-xo-so-mien-bac"><strong>Xổ Số Miền Bắc</strong></a>. TK Đầu đu&ocirc;i Loto XSMB. Xem Bảng Thống K&ecirc; Đầu Đu&ocirc;i Loto Xổ Số Miền Bắc nhanh ch&oacute;ng, ch&iacute;nh x&aacute;c tại xosotailoc.vip</span></p>
+            <p><span style="font-weight: 400;">xosotailoc.vip nơi cập nhật thống k&ecirc; Đầu đu&ocirc;i Loto Miền Bắc nhanh ch&oacute;ng, ch&iacute;nh x&aacute;c nhất.</span></p>
             <p><span style="font-weight: 400;">Thống k&ecirc; đầu đu&ocirc;i l&ocirc; t&ocirc; xổ số Miền Bắc theo tuần, theo th&aacute;ng gần đ&acirc;y nhất l&agrave; thống k&ecirc; chi tiết số lần về của bộ số c&oacute; đầu/đu&ocirc;i, v&agrave; bộ số bao nhi&ecirc;u.&nbsp;</span></p>
             <p><span style="font-weight: 400;">Xổ Số VN nơi cập nhật thống k&ecirc; đầu đu&ocirc;i loto Miền Biền ch&iacute;nh x&aacute;c v&agrave; nhanh nhất.</span></p>
             <h2><strong>Thống k&ecirc; đầu đu&ocirc;i l&ocirc; t&ocirc; Miền Bắc l&agrave; g&igrave;?</strong></h2>
@@ -220,8 +220,8 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
             <h2><strong>Hướng dẫn c&aacute;ch xem TK Đầu đu&ocirc;i Loto Miền Bắc</strong></h2>
             <p><strong>Chọn Tỉnh, TP</strong><span style="font-weight: 400;">: Chọn một tỉnh hoặc l&agrave; th&agrave;nh phố m&agrave; bạn cần để xem thống k&ecirc; tần suất ng&agrave;y xuất hiện/chưa xuất hiện đầu đu&ocirc;i v&agrave; dữ liệu sẽ hiển thị kết quả một c&aacute;ch chi tiết l&agrave; ng&agrave;y n&agrave;o xuất hiện gần nhất tr&ecirc;n bảng TK Đầu Đu&ocirc;i Loto.</span></p>
             <p><span style="font-weight: 400;">Chọn Bi&ecirc;n độ: Chọn số ng&agrave;y m&agrave; bạn muốn xem thống k&ecirc; Đầu đu&ocirc;i Loto Miền Bắc.</span></p>
-            <p><span style="font-weight: 400;">xosotailoc.live địa chỉ cung cấp cho bạn những th&ocirc;ng tin uy t&iacute;n, kịp thời mang đến cho bạn những tin mới nhất về xổ số. Truy cập xosotailoc.live thường xuy&ecirc;n để c&oacute; th&ecirc;m nhiều th&ocirc;ng tin hữu &iacute;ch nh&eacute;!</span></p>
-            <p><span style="font-weight: 400;">Tk theo đầu đu&ocirc;i l&ocirc; t&ocirc; Miền Bắc. Bảng thống k&ecirc; theo đầu đu&ocirc;i l&ocirc; t&ocirc;. Xem thống k&ecirc; đầu đu&ocirc;i l&ocirc; t&ocirc; Miền Bắc nhanh ch&oacute;ng, ch&iacute;nh x&aacute;c tại xosotailoc.live.</span></p>
+            <p><span style="font-weight: 400;">xosotailoc.vip địa chỉ cung cấp cho bạn những th&ocirc;ng tin uy t&iacute;n, kịp thời mang đến cho bạn những tin mới nhất về xổ số. Truy cập xosotailoc.vip thường xuy&ecirc;n để c&oacute; th&ecirc;m nhiều th&ocirc;ng tin hữu &iacute;ch nh&eacute;!</span></p>
+            <p><span style="font-weight: 400;">Tk theo đầu đu&ocirc;i l&ocirc; t&ocirc; Miền Bắc. Bảng thống k&ecirc; theo đầu đu&ocirc;i l&ocirc; t&ocirc;. Xem thống k&ecirc; đầu đu&ocirc;i l&ocirc; t&ocirc; Miền Bắc nhanh ch&oacute;ng, ch&iacute;nh x&aacute;c tại xosotailoc.vip.</span></p>
         </div>
         <script>
         </script>

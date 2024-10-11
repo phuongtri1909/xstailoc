@@ -85,7 +85,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
                 đoán cặp số nào sắp về với tỷ lệ trúng là 27% thì hiển nhiên việc đoán các cặp không về với xác suất là 73% hoàn
                 toàn cao hơn nhiều.</p>
 
-            <h2 dir="ltr"><strong>Đánh lô trượt được bao nhiêu? tại xosotailoc.live</strong></h2>
+            <h2 dir="ltr"><strong>Đánh lô trượt được bao nhiêu? tại xosotailoc.vip</strong></h2>
 
             <p dir="ltr">Có 7  hình thức đánh ăn lô trượt hiện nay:</p>
 
@@ -126,7 +126,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
             <p dir="ltr">Từ bảng, người xem có thể theo dõi được quy luật và số lần xuất hiện của lô {{$province->name}} trong thời gian
                 gần đây.</p>
 
-            <h2 dir="ltr"><strong>Kinh nghiệm chơi lô trượt {{$province->name}} với xosotailoc.live :</strong></h2>
+            <h2 dir="ltr"><strong>Kinh nghiệm chơi lô trượt {{$province->name}} với xosotailoc.vip :</strong></h2>
 
             <p dir="ltr">- Chọn ghi số lô trượt ở bảng soi cầu đã có khi phân tích kết quả {{$province->name}} .</p>
 

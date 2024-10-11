@@ -75,7 +75,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
 
                     <h2><strong>Sổ mơ giải mộng theo kinh nghiệm dân gian</strong></h2>
                     
-                    <p><span style="font-weight: 400;"><strong>Sổ Mơ</strong>. Giải m&atilde; giấc mơ. Tra cứu những giấc mơ v&agrave; c&aacute;c con số linh nghiệm tại xosotailoc.live</span></p>
+                    <p><span style="font-weight: 400;"><strong>Sổ Mơ</strong>. Giải m&atilde; giấc mơ. Tra cứu những giấc mơ v&agrave; c&aacute;c con số linh nghiệm tại xosotailoc.vip</span></p>
                     <p><span style="font-weight: 400;"><strong><a href="{{route('home')}}" title="XS"><span style="color:#0000FF">Xổ Số Tài Lộc </span></a></strong> nơi tra cứu giấc mơ nhanh ch&oacute;ng, ch&iacute;nh x&aacute;c nhất.</span></p>
                     <h2><strong>Sổ mơ l&agrave; g&igrave;</strong></h2>
                     <p><span style="font-weight: 400;"><a title="Sổ mơ" href="/so-mo"><strong>Sổ mơ</strong></a> l&agrave; bảng để tra cứu những con số may mắn tương ứng với từng hiện tượng giấc mơ cụ thể của mỗi người. Đ&acirc;y l&agrave; một trong những cuốn số tổng hợp chi tiết nhất từ A- Z theo kinh nghiệm d&acirc;n gian, d&ugrave;ng để giải m&atilde; những giấc mơ m&agrave; ta đ&atilde; mơ từ tối h&ocirc;m trước.</span></p>

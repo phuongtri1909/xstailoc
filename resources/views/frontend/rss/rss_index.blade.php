@@ -29,10 +29,10 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
 @endsection
 @section('content')
     <div class="content-rss col-l">
-        <div class="title-rss">xosotailoc.live - RSS</div>
+        <div class="title-rss">xosotailoc.vip - RSS</div>
         <div class="q-rss">RSS là gì ?</div>
         <div class="a-rss">RSS (Really Simple Syndication) là một chuẩn tựa XML được rút gọn dành cho việc phân tán và khai thác nội dung thông tin Web (ví dụ như các tiêu đề tin tức). Sử dụng RSS, các nhà cung cấp nội dung Web có thể dễ dàng tạo và phổ biến các nguồn dữ liệu ví dụ như các liên kết tin tức, tiêu đề, ảnh và tóm tắt</div>
-        <div class="q-rss">xosotailoc.live cung cấp những kênh thông tin RSS sau:</div>
+        <div class="q-rss">xosotailoc.vip cung cấp những kênh thông tin RSS sau:</div>
         <div class="list-tk">
             <div class="one-item">
                 <a href="{{route('rss.dudoanxsmb')}}" class="left">Dự đoán XSMB</a>
@@ -62,8 +62,8 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
         <div class="q-rss">
             <strong>Các giới hạn sử dụng</strong>
         </div>
-        <div class="a-rss">Các nguồn kênh tin được cung cấp miễn phí cho các cá nhân và các tổ chức phi lợi nhuận. Chúng tôi yêu cầu bạn cung cấp rõ các thông tin cần thiết khi bạn sử dụng các nguồn kênh tin này từ xosotailoc.live</div>
-        <div class="a-rss">xosotailoc.live hoàn toàn có quyền yêu cầu bạn ngừng cung cấp và phân tán thông tin dưới dạng này ở bất kỳ thời điểm nào và với bất kỳ lý do nào.</div>
+        <div class="a-rss">Các nguồn kênh tin được cung cấp miễn phí cho các cá nhân và các tổ chức phi lợi nhuận. Chúng tôi yêu cầu bạn cung cấp rõ các thông tin cần thiết khi bạn sử dụng các nguồn kênh tin này từ xosotailoc.vip</div>
+        <div class="a-rss">xosotailoc.vip hoàn toàn có quyền yêu cầu bạn ngừng cung cấp và phân tán thông tin dưới dạng này ở bất kỳ thời điểm nào và với bất kỳ lý do nào.</div>
     </div>
 @endsection
 

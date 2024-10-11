@@ -357,7 +357,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
                 cho đài xổ số miền Trung bạn đã chọn.</p>
             <p style="margin: 0">Bước 3: Xem bảng kết quả quay thử.</p>
             <p style="margin: 0"><Strong>Lưu Ý Quan Trọng</Strong></p>
-            <p style="margin: 0">Quay thử xổ số miền Trung hôm nay là một tính năng được xosotailoc.live cung
+            <p style="margin: 0">Quay thử xổ số miền Trung hôm nay là một tính năng được xosotailoc.vip cung
                 cấp. Kết quả quay thử
                 <a style="text-decoration: underline" title="XSMT" href="{{ route('xsmt') }}">XSMT</a>
                 được lấy ngẫu nhiên từ những kết quả quay thưởng xổ số truyền thống của đài XSMT trong quá

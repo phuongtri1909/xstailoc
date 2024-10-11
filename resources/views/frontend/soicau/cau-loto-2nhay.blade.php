@@ -84,8 +84,8 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
         </div>
         <div class=" box-content" style="height: auto !important;">
 
-           <p><span style="font-weight: 400;">Cầu L&ocirc; T&ocirc; 2 nh&aacute;y. Cầu Loto 2 nh&aacute;y. Soi Cầu L&ocirc; 2 Nh&aacute;y. Xem thống k&ecirc; Cầu L&ocirc; T&ocirc; 2 Nh&aacute;y nhanh ch&oacute;ng, ch&iacute;nh x&aacute;c v&agrave; ho&agrave;n to&agrave;n miễn ph&iacute; tại xosotailoc.live</span></p>
-            <p><span style="font-weight: 400;">xosotailoc.live nơi cập nhật Cầu L&ocirc; T&ocirc; 2 nh&aacute;y. Xem thống k&ecirc; Cầu L&ocirc; 2 nh&aacute;y li&ecirc;n tục, nhanh ch&oacute;ng v&agrave; ch&iacute;nh x&aacute;c.</span></p>
+           <p><span style="font-weight: 400;">Cầu L&ocirc; T&ocirc; 2 nh&aacute;y. Cầu Loto 2 nh&aacute;y. Soi Cầu L&ocirc; 2 Nh&aacute;y. Xem thống k&ecirc; Cầu L&ocirc; T&ocirc; 2 Nh&aacute;y nhanh ch&oacute;ng, ch&iacute;nh x&aacute;c v&agrave; ho&agrave;n to&agrave;n miễn ph&iacute; tại xosotailoc.vip</span></p>
+            <p><span style="font-weight: 400;">xosotailoc.vip nơi cập nhật Cầu L&ocirc; T&ocirc; 2 nh&aacute;y. Xem thống k&ecirc; Cầu L&ocirc; 2 nh&aacute;y li&ecirc;n tục, nhanh ch&oacute;ng v&agrave; ch&iacute;nh x&aacute;c.</span></p>
             <h2><strong>Soi Cầu L&ocirc; 2 Nh&aacute;y L&agrave; G&igrave;?</strong></h2>
             <p><span style="font-weight: 400;">Soi cầu l&ocirc; 2 nh&aacute;y l&agrave; một phương ph&aacute;p dự đo&aacute;n c&aacute;c con số c&oacute; khả năng xuất hiện trong kết quả xổ số. Phương ph&aacute;p n&agrave;y tập trung v&agrave;o việc t&igrave;m hiểu v&agrave; ph&acirc;n t&iacute;ch những yếu tố c&oacute; thể ảnh hưởng đến việc xuất hiện của c&aacute;c con số trong hai lượt quay liền kề.</span></p>
             <h2><strong>C&aacute;ch Thức Hoạt Động</strong></h2>
@@ -103,7 +103,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
             <h2><strong>Tr&uacute;ng l&ocirc; 2 nh&aacute;y được bao nhi&ecirc;u tiền thưởng?</strong></h2>
             <p><span style="font-weight: 400;">- Nếu như bạn nu&ocirc;i 1 l&ocirc; m&agrave; n&oacute; về 2 nh&aacute;y th&igrave; xem như ăn 2 l&ocirc; li&ecirc;n tiếp, số tiền sẽ được gấp đ&ocirc;i, tương tự như vậy với 3 nh&aacute;y v&agrave; 4 nh&aacute;y.</span></p>
             <p><span style="font-weight: 400;">Mọi th&ocirc;ng tin soi cầu lo to tr&ecirc;n đ&acirc;y chỉ mang t&iacute;nh chất tham khảo, ch&uacute;c bạn may mắn!</span></p>
-            <p><span style="font-weight: 400;">Xem Cầu L&ocirc; T&ocirc; 2 nh&aacute;y, Cầu Trượt, Cầu Bạch Thủ, KQXS 3 Miền được cập nhật li&ecirc;n tục, mỗi ng&agrave;y tr&ecirc;n xosotailoc.live</span></p>
+            <p><span style="font-weight: 400;">Xem Cầu L&ocirc; T&ocirc; 2 nh&aacute;y, Cầu Trượt, Cầu Bạch Thủ, KQXS 3 Miền được cập nhật li&ecirc;n tục, mỗi ng&agrave;y tr&ecirc;n xosotailoc.vip</span></p>
 
             <p style="text-align:center"><strong><a href="{{route('scmb.cau-bach-thu')}}" title="Soi cầu lô Mb hôm nay"><span
                                 style="color:#0000FF">Soi cầu lô Mb hôm nay</span></a></strong></p>

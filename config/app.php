@@ -54,7 +54,7 @@ return [
     |
     */
 
-    'url' => 'https://xosotailoc.live',
+    'url' => 'https://xosotailoc.vip',
 
     'asset_url' => env('ASSET_URL'),
 

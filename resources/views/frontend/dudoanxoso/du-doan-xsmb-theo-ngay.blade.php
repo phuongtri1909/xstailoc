@@ -4,7 +4,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
 @extends('frontend.layouts.app')
 
 @section('title','Dự đoán XSMB '.getNgayThang($dudoan->date).' - Soi cầu xổ số miền Bắc ' .getNgay($dudoan->date))
-@section('decription','Dự đoán XSMB '.getNgay($dudoan->date).' chính xác từ cao thủ soi cầu số 1 hiện nay. Soi cầu xổ số miền Bắc chính xác 100, hoàn toàn miễn phí trên xosotailoc.live')
+@section('decription','Dự đoán XSMB '.getNgay($dudoan->date).' chính xác từ cao thủ soi cầu số 1 hiện nay. Soi cầu xổ số miền Bắc chính xác 100, hoàn toàn miễn phí trên xosotailoc.vip')
 @section('keyword','DDXSMB, Dự đoán XSMB Hôm Nay '.getNgay($dudoan->date).', Dự đoán xổ số miền Bắc '.getNgay($dudoan->date).', DDXSMB '.getNgay($dudoan->date).'')
 @section('h1','Dự đoán XSMB '.getNgayThang($dudoan->date).' - Soi cầu xổ số miền Bắc ' .getNgay($dudoan->date))
 
