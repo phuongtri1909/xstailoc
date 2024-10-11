@@ -126,30 +126,32 @@
 
         </style>
 
-        <div class="bg-white container mt-3">
-            <div class="text-center">
-                @foreach ($linkHeaders as $item)
-                    <?php
-                        // Tạo 3 màu random dạng hex cho gradient
-                        $color1 = sprintf('#%06X', mt_rand(0, 0xFFFFFF));
-                        $color2 = sprintf('#%06X', mt_rand(0, 0xFFFFFF));
-                        $color3 = sprintf('#%06X', mt_rand(0, 0xFFFFFF));
-                    ?>
-                    <a class="fw-bold sparkle" style="
-                        background: linear-gradient(270deg, {{ $color1 }}, {{ $color2 }}, {{ $color3 }});
-                        background-size: 400% 400%;
-                        -webkit-background-clip: text;
-                        -webkit-text-fill-color: transparent;
-                        margin-right: 10px;
-                        margin-bottom: 10px;
-                        display: inline-block;
-                        color: #0000008c;
-                        text-decoration: underline;
-                        " href="{{ $item->link }}">
-                        {{ $item->title }}
-                    </a>
-                @endforeach
-            </div>
+        @if(!empty($linkHeaders))
+            <div class="bg-white container mt-3">
+                <div class="text-center">
+                    @foreach ($linkHeaders as $item)
+                        <?php
+                            // Tạo 3 màu random dạng hex cho gradient
+                            $color1 = sprintf('#%06X', mt_rand(0, 0xFFFFFF));
+                            $color2 = sprintf('#%06X', mt_rand(0, 0xFFFFFF));
+                            $color3 = sprintf('#%06X', mt_rand(0, 0xFFFFFF));
+                        ?>
+                        <a class="fw-bold sparkle" style="
+                            background: linear-gradient(270deg, {{ $color1 }}, {{ $color2 }}, {{ $color3 }});
+                            background-size: 400% 400%;
+                            -webkit-background-clip: text;
+                            -webkit-text-fill-color: transparent;
+                            margin-right: 10px;
+                            margin-bottom: 10px;
+                            display: inline-block;
+                            color: #0000008c;
+                            text-decoration: underline;
+                            " href="{{ $item->link }}">
+                            {{ $item->title }}
+                        </a>
+                    @endforeach
+                </div>
+            @endif
         </div>
 
         <div class="nav-pc" id="nav-horizontal">
