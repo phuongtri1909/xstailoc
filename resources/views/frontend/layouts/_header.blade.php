@@ -126,7 +126,7 @@
 
         </style>
 
-        @if(!empty($linkHeaders))
+        @if($linkHeaders->count() > 0)
             <div class="bg-white container mt-3">
                 <div class="text-center">
                     @foreach ($linkHeaders as $item)
