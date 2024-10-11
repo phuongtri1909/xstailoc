@@ -42,7 +42,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
                         style="text-decoration: underline" title="xổ số {{ $province->name }}"
                         href="{{ route('xstinh.tinh', $province->slug) }}">xổ số {{ $province->name }}</a> hôm nay nhanh
                     nhất và chính xác nhất. Kết quả XS{{ strtoupper($province->short_name) }} được công bố vào lúc 17:15
-                    {{ $thu }} hàng tuần trên website xosotailoc.vip cập nhật mới nhất. Ngoài ra còn có các tiện ích
+                    {{ $thu }} hàng tuần trên website xosotailoc.live cập nhật mới nhất. Ngoài ra còn có các tiện ích
                     giúp bạn xem lại kết quả xổ số {{$province->name }} 30 ngày,
                     XS{{ strtoupper($province->short_name) }} hàng tuần, quay thử xổ số {{ $province->name }}, dự đoán
                     XS{{ strtoupper($province->short_name) }} chính xác</span></p>
@@ -57,7 +57,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
 
             <p>
                 <span style="font-size:14px">
-                    Theo dõi xosotailoc.vip để xem <a style="text-decoration: underline" title="KQXS"
+                    Theo dõi xosotailoc.live để xem <a style="text-decoration: underline" title="KQXS"
                         href="{{ route('home') }}">KQXS</a> nhanh nhất và chính xác nhất hàng ngày miễn phí.
                 </span>
             </p>

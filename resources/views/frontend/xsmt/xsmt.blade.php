@@ -66,7 +66,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
 
 
         <div class="box-content">
-            <p>XSMT hôm nay - SXMT - XSMTR - <a style="text-decoration: underline" href="{{ route('xsmt') }}">xổ số miền Trung</a> hôm nay cập nhật mới nhất. xosotailoc.vip trực tiếp kết quả xổ
+            <p>XSMT hôm nay - SXMT - XSMTR - <a style="text-decoration: underline" href="{{ route('xsmt') }}">xổ số miền Trung</a> hôm nay cập nhật mới nhất. xosotailoc.live trực tiếp kết quả xổ
                 số miền Trung nhanh nhất và chính xác nhất hàng ngày, KQXSMT được quay số vào lúc 17:15 tất cả các ngày
                 trong tuần.</p>
 

@@ -1,5 +1,5 @@
 google.com, pub-2755937406534249, DIRECT, f08c47fec0942fa0
-OWNERDOMAIN=xosotailoc.vip
+OWNERDOMAIN=xosotailoc.live
 MANAGERDOMAIN=pubpower.io
 indexexchange.com, 192277, RESELLER, 50b1c356f2c5c8fc
 appnexus.com, 11711, RESELLER, f5ab79cb980f11d1

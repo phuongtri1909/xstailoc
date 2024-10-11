@@ -205,12 +205,12 @@
             </div>
             <div class="box-content">
                 <div class="content-news">
-                     <h2 class="text-center"><strong > Giới thiệu về trang KQXS - xosotailoc.vip - XO SO HOM NAY</strong></h2>
-                     <p><a href="{{ route('home') }}"><strong>xosotailoc.vip</strong> </a> là trang kết quả xổ số trực tuyến nhanh nhất và chính xác nhất tại Việt Nam. Với giao diện thân thiện và dễ sử dụng, Xổ Số Tài Lộc giúp người dùng theo dõi <a href="{{ route('home') }}"><strong>kqxs</strong></a> mọi lúc, mọi nơi một cách tiện lợi và nhanh chóng.</p>
+                     <h2 class="text-center"><strong > Giới thiệu về trang KQXS - xosotailoc.live - XO SO HOM NAY</strong></h2>
+                     <p><a href="{{ route('home') }}"><strong>xosotailoc.live</strong> </a> là trang kết quả xổ số trực tuyến nhanh nhất và chính xác nhất tại Việt Nam. Với giao diện thân thiện và dễ sử dụng, Xổ Số Tài Lộc giúp người dùng theo dõi <a href="{{ route('home') }}"><strong>kqxs</strong></a> mọi lúc, mọi nơi một cách tiện lợi và nhanh chóng.</p>
                      <p>Theo dõi <a href="{{ route('xsmb') }}"><strong>XSMB</strong></a> - Kết quả xổ số miền Bắc hàng ngày lúc 18h15</p>
                      <p>Theo dõi <a href="{{ route('xsmn') }}"><strong>XSMN</strong></a> - Kết quả xổ số miền Nam hàng ngày lúc 16h15</p>
                      <p>Theo dõi <a href="{{ route('xsmt') }}"><strong>XSMT</strong></a> - Kết quả xổ số miền Trung hàng ngày lúc 17h15</p>
-                     <p>Không chỉ trực tiếp <a href="{{ route('home') }}"><strong>KQXS</strong></a> ba miền, <a href="{{ route('home') }}"><strong>xosotailoc.vip</strong> </a> còn nhiều tiện ích khác dành cho bạn như dự đoán xổ số, thống kê lô tô, xổ số vietlott, xổ số điện toán hoàn toàn miễn phí.</p>
+                     <p>Không chỉ trực tiếp <a href="{{ route('home') }}"><strong>KQXS</strong></a> ba miền, <a href="{{ route('home') }}"><strong>xosotailoc.live</strong> </a> còn nhiều tiện ích khác dành cho bạn như dự đoán xổ số, thống kê lô tô, xổ số vietlott, xổ số điện toán hoàn toàn miễn phí.</p>
                 </div>
             </div>
         </div>

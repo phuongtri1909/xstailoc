@@ -5,7 +5,7 @@
     <title>@yield('title')</title>
     <meta name="description" content="@yield('decription')">
     <meta name="keywords" content="@yield('keyword')">
-    <meta name="robots" content="index, follow">
+    <meta name="robots" content="noindex, nofollow">
     <link rel="canonical" href="{{url()->current()}}"/>
     <link rel="alternate" href="{{url()->current()}}" hreflang="vi-vn"/>
     <link rel="alternate" href="{{url()->current()}}" hreflang="x-default"/>
@@ -84,12 +84,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       "@type": "EntertainmentBusiness",
       "name": "Xổ Số Tài Lộc",
       "alternateName": "KQXS - Xổ Số Hôm Nay - Trực Tiếp Xổ Số - Kết Quả Xổ Số 3 Miền Chính Xác Nhất",
-      "@id": "https://xosotailoc.vip/",
-      "logo": "https://xosotailoc.vip/frontend/images/xo-so-tai-loc.png",
-      "image": "https://xosotailoc.vip/frontend/images/xo-so-tai-loc.png",
+      "@id": "https://xosotailoc.live/",
+      "logo": "https://xosotailoc.live/frontend/images/xo-so-tai-loc.png",
+      "image": "https://xosotailoc.live/frontend/images/xo-so-tai-loc.png",
       "description": "KQXS - Trực tiếp  xổ số hôm nay nhanh và chính xác nhất từ trường quay xổ số hàng ngày. Xem kết quả Xổ số 3 miền siêu chuẩn miễn phí",
       "hasMap": "https://maps.app.goo.gl/FnALGYfJhmExBt8T6",
-      "url": "https://xosotailoc.vip/",
+      "url": "https://xosotailoc.live/",
       "telephone": "0936656929",
       "priceRange": "100000VND-100000000VND",
       "address": {
