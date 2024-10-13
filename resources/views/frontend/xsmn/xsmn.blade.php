@@ -67,7 +67,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
 
         <div class="box-content">
             <p>Xem trực tiếp <a style="text-decoration: underline" href="{{ route('xsmn') }}">xổ số miền Nam</a> nhanh chóng và chính xác hàng ngày vào lúc 16:15 từ thứ 2 đến chủ nhật tại
-                xosotailoc.live miễn phí. KQSXMN sẽ quay số mở thưởng 3 tỉnh mỗi ngày và thứ bảy sẽ mở thưởng 4 tỉnh. Kết quả
+                xosotailoc.vip miễn phí. KQSXMN sẽ quay số mở thưởng 3 tỉnh mỗi ngày và thứ bảy sẽ mở thưởng 4 tỉnh. Kết quả
                 XSMN sẽ được tường thuật trực tiếp chính xác từ trường quay xổ số đảm bảo sự minh bạch.</p>
 
             <h2><strong>Lịch mở thưởng xổ số miền Nam trong tuần:</strong></h2>

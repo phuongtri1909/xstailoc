@@ -354,7 +354,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
             <p style="margin: 0">Bước 2: Nhấn nút "Quay thử". Hệ thống sẽ tự động quay các bộ số ngẫu nhiên cho đài xổ số miền Nam bạn đã chọn.</p>
             <p style="margin: 0">Bước 3: Xem bảng kết quả quay thử.</p>
             <p style="margin: 0"><Strong>Lưu Ý Quan Trọng</Strong></p>
-            <p style="margin: 0">Quay thử xổ số miền Nam hôm nay là một tính năng được xosotailoc.live cung cấp. Kết quả quay thử
+            <p style="margin: 0">Quay thử xổ số miền Nam hôm nay là một tính năng được xosotailoc.vip cung cấp. Kết quả quay thử
                 <a style="text-decoration: underline" title="XSMN" href="{{ route('xsmn') }}">XSMN</a>
                 được lấy ngẫu nhiên từ những kết quả quay thưởng xổ số truyền thống của đài XSMN trong quá khứ, không theo bất kỳ quy luật hay xu hướng cụ thể nào.
             </p>

@@ -7,7 +7,7 @@
 
         <description>Dự đoán XSMN</description>
         <!-- <language>en-gb</language> -->
-        <copyright>xosotailoc.live</copyright>
+        <copyright>xosotailoc.vip</copyright>
         <lastBuildDate>{{ now()->format('d-m-Y H:i:s') }}</lastBuildDate>
         <ttl>20</ttl>
             @foreach($items as $item)

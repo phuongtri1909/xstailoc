@@ -158,8 +158,8 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
                 <p dir="ltr">Thống kê KQXSMB theo năm được hệ thống máy tính của chúng tôi cập nhật liên tục khi có kết quả, đảm bảo sự chính xác nhất cho bạn tham khảo.</p>
 
                 <p><strong>Lấy kết quả xổ số mới nhất hàng ngày, truy cập: <a href="{{route('home')}}" title="XS 3 miền"><span style="color:#0000FF">XS 3 miền</span></a></strong></p>
-                <p><span style="font-weight: 400;">Bảng Đặc Biệt năm. Bảng TK DB năm. Bảng Thống K&ecirc; Đặc Biệt năm. Xem Bảng Đặc Biệt năm đầy đủ, ch&iacute;nh x&aacute;c v&agrave; ho&agrave;n to&agrave;n miễn ph&iacute; tại xosotailoc.live</span></p>
-            <p><span style="font-weight: 400;">xosotailoc.live cập nhật Bảng Thống K&ecirc; Giải Đặc Biệt năm si&ecirc;u ch&iacute;nh x&aacute;c.</span></p>
+                <p><span style="font-weight: 400;">Bảng Đặc Biệt năm. Bảng TK DB năm. Bảng Thống K&ecirc; Đặc Biệt năm. Xem Bảng Đặc Biệt năm đầy đủ, ch&iacute;nh x&aacute;c v&agrave; ho&agrave;n to&agrave;n miễn ph&iacute; tại xosotailoc.vip</span></p>
+            <p><span style="font-weight: 400;">xosotailoc.vip cập nhật Bảng Thống K&ecirc; Giải Đặc Biệt năm si&ecirc;u ch&iacute;nh x&aacute;c.</span></p>
             <h2><strong>Bảng Đặc Biệt năm l&agrave; g&igrave;?</strong></h2>
             <p><span style="font-weight: 400;">L&agrave; bảng tổng hợp Giải Đặc Biệt theo năm - XSMB v&agrave; c&aacute;c tỉnh th&agrave;nh kh&aacute;c đầy đủ v&agrave; hai số cuối ch&iacute;nh x&aacute;c nhất.&nbsp;</span></p>
             <p><span style="font-weight: 400;">Bảng giải đặc biệt theo năm thống k&ecirc; tất cả c&aacute;c th&ocirc;ng tin về c&aacute;c giải đặc biệt đ&atilde; về trong 1 khoảng thời gian nhất định.&nbsp;</span></p>
@@ -170,16 +170,16 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
             <p><span style="font-weight: 400;">- C&aacute;c &ocirc; m&agrave;u v&agrave;ng nhạt tương ứng với ng&agrave;y Chủ nhật.</span></p>
             <p><span style="font-weight: 400;">- 2 số cuối giải đặc biệt sẽ được t&ocirc; m&agrave;u để l&agrave;m nổi bật.</span></p>
             <h2><strong>Bảng đặc biệt theo năm được cập nhật l&uacute;c n&agrave;o?</strong></h2>
-            <p><span style="font-weight: 400;">Bảng đặc biệt Miền Bắc theo năm được xosotailoc.live cập nhật li&ecirc;n tục mỗi ng&agrave;y. Kết quả mới nhất được tường thuật trực tiếp từ trường quay v&agrave;o l&uacute;c 18h15' h&agrave;ng ng&agrave;y. Hệ thống của xosotailoc.live sẽ gi&uacute;p bạn cập nhật, tổng hợp tất cả c&aacute;c giải Đặc biệt một c&aacute;ch nhanh ch&oacute;ng v&agrave; ch&iacute;nh x&aacute;c. V&igrave; vậy, bạn ho&agrave;n to&agrave;n c&oacute; thể y&ecirc;n t&acirc;m khi tham khảo bảng đặc biệt Miền Bắc theo năm tr&ecirc;n xosotailoc.live.</span></p>
+            <p><span style="font-weight: 400;">Bảng đặc biệt Miền Bắc theo năm được xosotailoc.vip cập nhật li&ecirc;n tục mỗi ng&agrave;y. Kết quả mới nhất được tường thuật trực tiếp từ trường quay v&agrave;o l&uacute;c 18h15' h&agrave;ng ng&agrave;y. Hệ thống của xosotailoc.vip sẽ gi&uacute;p bạn cập nhật, tổng hợp tất cả c&aacute;c giải Đặc biệt một c&aacute;ch nhanh ch&oacute;ng v&agrave; ch&iacute;nh x&aacute;c. V&igrave; vậy, bạn ho&agrave;n to&agrave;n c&oacute; thể y&ecirc;n t&acirc;m khi tham khảo bảng đặc biệt Miền Bắc theo năm tr&ecirc;n xosotailoc.vip.</span></p>
             <h2><strong>Lợi &iacute;ch của bảng đặc biệt miền Bắc theo năm</strong></h2>
             <p><span style="font-weight: 400;">Bảng đặc biệt miền Bắc theo năm l&agrave; c&ocirc;ng cụ hữu &iacute;ch cho việc soi số giải đặc biệt. Bảng dữ liệu kết quả theo năm được cập nhật đầy đủ n&ecirc;n người chơi thuận tiện trong việc nhận ra con số n&agrave;o c&oacute; tần suất tr&uacute;ng thưởng cao, con số n&agrave;o &iacute;t về, sự tương quan giữa c&aacute;c con số,...</span></p>
             <p><span style="font-weight: 400;">Từ đ&oacute;, người chơi thoải m&aacute;i đ&aacute;nh gi&aacute;, t&iacute;nh to&aacute;n v&agrave; dự đo&aacute;n con số c&oacute; khả năng cao sẽ xuất hiện trong giải đặc biệt tiếp theo.&nbsp;</span></p>
             <p><span style="font-weight: 400;">Thay v&igrave; trước kia, việc dự đo&aacute;n kh&ocirc;ng c&oacute; căn cứ, cơ sở th&igrave; giờ đ&acirc;y bạn c&oacute; thể dựa v&agrave;o bảng đặc biệt năm để thử vận may.</span></p>
             <h2><strong>Hướng dẫn c&aacute;ch xem Bảng Đặc Biệt theo năm</strong></h2>
             <p><strong>&nbsp;Để c&oacute; thể xem bảng thống k&ecirc; kết quả xổ số giải đặc biệt theo năm, bạn thực hiện theo c&aacute;c bước sau:</strong></p>
-            <p><span style="font-weight: 400;">- Bước 1: Tại trang web của xosotailoc.live, chọn mục Thống k&ecirc; tr&ecirc;n thanh menu, tiếp theo nhấn v&agrave;o mục Bảng đặc biệt năm.</span></p>
+            <p><span style="font-weight: 400;">- Bước 1: Tại trang web của xosotailoc.vip, chọn mục Thống k&ecirc; tr&ecirc;n thanh menu, tiếp theo nhấn v&agrave;o mục Bảng đặc biệt năm.</span></p>
             <p><span style="font-weight: 400;">- Bước 2: Lựa chọn khu vực Miền Bắc/tỉnh th&agrave;nh v&agrave; khoảng thời gian bạn muốn xem kết quả giải Đặc Biệt theo năm.</span></p>
-            <p><span style="font-weight: 400;">Bảng TK giải Đặc Biệt theo năm. Xem thống k&ecirc; giải đặc biệt năm nhanh ch&oacute;ng, ch&iacute;nh x&aacute;c v&agrave; ho&agrave;n to&agrave;n miễn ph&iacute; tại xosotailoc.live</span><br />
+            <p><span style="font-weight: 400;">Bảng TK giải Đặc Biệt theo năm. Xem thống k&ecirc; giải đặc biệt năm nhanh ch&oacute;ng, ch&iacute;nh x&aacute;c v&agrave; ho&agrave;n to&agrave;n miễn ph&iacute; tại xosotailoc.vip</span><br />
             </div>
             <script>
             </script>

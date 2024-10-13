@@ -107,8 +107,8 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
                 thống kê kết quả của các cặp lô tô xuất hiện tại vị trí cầu ghép lại thường về&nbsp;trong biên độ mà
                 người chơi lựa chọn.</p>
 
-         <p><span style="font-weight: 400;">Cầu L&ocirc; T&ocirc; theo thứ. Cầu Loto Theo Thứ. Cầu Theo thứ Miền Bắc. Xem thống k&ecirc; Cầu L&ocirc; T&ocirc; theo thứ nhanh ch&oacute;ng, ch&iacute;nh x&aacute;c v&agrave; ho&agrave;n to&agrave;n miễn ph&iacute; tại xosotailoc.live</span></p>
-            <p><span style="font-weight: 400;">xosotailoc.live nơi cập nhật Cầu L&ocirc; T&ocirc; theo thứ. Bảng thống k&ecirc; Cầu L&ocirc; 2 nh&aacute;y li&ecirc;n tục, nhanh ch&oacute;ng v&agrave; ch&iacute;nh x&aacute;c nhất.</span></p>
+         <p><span style="font-weight: 400;">Cầu L&ocirc; T&ocirc; theo thứ. Cầu Loto Theo Thứ. Cầu Theo thứ Miền Bắc. Xem thống k&ecirc; Cầu L&ocirc; T&ocirc; theo thứ nhanh ch&oacute;ng, ch&iacute;nh x&aacute;c v&agrave; ho&agrave;n to&agrave;n miễn ph&iacute; tại xosotailoc.vip</span></p>
+            <p><span style="font-weight: 400;">xosotailoc.vip nơi cập nhật Cầu L&ocirc; T&ocirc; theo thứ. Bảng thống k&ecirc; Cầu L&ocirc; 2 nh&aacute;y li&ecirc;n tục, nhanh ch&oacute;ng v&agrave; ch&iacute;nh x&aacute;c nhất.</span></p>
             <h2><strong>Cầu L&ocirc; T&ocirc; theo thứ l&agrave; g&igrave;?</strong></h2>
             <p><span style="font-weight: 400;">Cầu L&ocirc; t&ocirc; theo thứ l&agrave; phương ph&aacute;p soi cầu hiệu quả được nhiều người chơi &aacute;p dụng. Mỗi thứ sẽ c&oacute; một cặp số đẹp để người chơi tham khảo, tăng tỷ lệ tr&uacute;ng thưởng. Với những người mới, kh&ocirc;ng nắm được phương ph&aacute;p đ&aacute;nh l&ocirc; theo thứ l&agrave; một thiệt th&ograve;i rất lớn.&nbsp;</span></p>
             <h2><strong>C&aacute;ch soi cầu l&ocirc; t&ocirc; theo thứ:</strong></h2>
@@ -126,7 +126,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
             <p><span style="font-weight: 400;">- Từ những cặp số n&agrave;y, người chơi c&oacute; thể dễ d&agrave;ng lựa chọn cho m&igrave;nh kết quả xổ số l&ocirc; t&ocirc; đẹp c&oacute; x&aacute;c suất về cao trong tuần n&agrave;y hoặc tuần sau.</span></p>
             <p><span style="font-weight: 400;">- C&oacute; thể dễ d&agrave;ng t&igrave;m con số đ&aacute;nh l&ocirc; theo thứ trong tuần dễ về nhất.</span></p>
             <p><span style="font-weight: 400;">Mọi th&ocirc;ng tin bảng soi cầu L&ocirc; T&ocirc; theo thứ chỉ mang t&iacute;nh chất tham khảo, ch&uacute;c bạn may mắn!</span></p>
-            <p><span style="font-weight: 400;">Xem Cầu L&ocirc; T&ocirc; Theo Thứ, Cầu Bạch Thủ, Cầu Trượt, Cầu 2 nh&aacute;y,.. nhanh ch&oacute;ng, kịp thời tại xosotailoc.live</span></p>
+            <p><span style="font-weight: 400;">Xem Cầu L&ocirc; T&ocirc; Theo Thứ, Cầu Bạch Thủ, Cầu Trượt, Cầu 2 nh&aacute;y,.. nhanh ch&oacute;ng, kịp thời tại xosotailoc.vip</span></p>
         </div>
         <div class="box pad10-5">
             <ul class="list-dot-red">

@@ -114,7 +114,7 @@
         $('#lfm').filemanager('image', {prefix: route_prefix});
     </script>
 
-    <script src="https://cdn.tiny.cloud/1/zdhytotn6didnbv96jldpbc09tz6rra5sizmzx12h3ap5qb5/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+    <script src="https://cdn.tiny.cloud/1/0p1jygrtb4j66g6yqotip7ughljjg70d54ae3cua3qp6eaa5/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
     <script>
         var editor_config = {
             path_absolute : "/",

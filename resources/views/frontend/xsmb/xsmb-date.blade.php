@@ -298,7 +298,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
                     </ul>
                          <div class="box-content">
                     
-                   <p> <strong> <a href="{{route('xsmb.date',getNgayLink($date))}}" title="Xổ số miền Bắc XSMB{{getNgay($date)}}">Xổ số miền Bắc {{getNgay($date)}}</a> </li> - Kết quả xổ số miền Bắc hôm nay nhanh nhất tại xosotailoc.live Xổ số miền Bắc {{getNgay($date)}}</strong>
+                   <p> <strong> <a href="{{route('xsmb.date',getNgayLink($date))}}" title="Xổ số miền Bắc XSMB{{getNgay($date)}}">Xổ số miền Bắc {{getNgay($date)}}</a> </li> - Kết quả xổ số miền Bắc hôm nay nhanh nhất tại xosotailoc.vip Xổ số miền Bắc {{getNgay($date)}}</strong>
                     </p>
                     </li>Trực tiếp xsmb {{getThu(getThuNumber($date))}} ngày <a href="{{route('xsmb.date',getNgayLink($date))}}" title="Xổ số miền Bắc {{getNgay($date)}}">Xổ số miền Bắc {{getNgay($date)}}</a> </li> nhanh, chính xác nhất.
 
@@ -308,7 +308,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
                     <p><h2> <strong> Các Câu Hỏi Thường Gặp Về Xổ Số Miền Bắc {{getNgay($date)}} {{getThu(getThuNumber($date))}}</strong> </h2> </p>
                     <p><h3> <strong> Làm thế nào để biết kết quả xổ số miền Bắc {{getNgay($date)}}</strong>  </h3></p>
 
-                    <p>Kết quả xổ số miền Bắc XSMB{{getNgay($date)}} được công bố trên các trang web xosotailoc.live đề hoặc trên các kênh truyền hình vào mỗi ngày. </p>
+                    <p>Kết quả xổ số miền Bắc XSMB{{getNgay($date)}} được công bố trên các trang web xosotailoc.vip đề hoặc trên các kênh truyền hình vào mỗi ngày. </p>
 
                     <p><h3> <strong>  Tôi có thể mua vé xổ số miền Bắc ngày  {{getNgay($date)}} ở đâu? </strong>  </h3></p>
 
@@ -540,7 +540,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
                     </ul>
                      <div class="box-content">
                     
-                   <p> <strong> <a href="{{route('xsmb.date',getNgayLink($date))}}" title="Xổ số miền Bắc XSMB{{getNgay($date)}}">Xổ số miền Bắc {{getNgay($date)}}</a> </li> - Kết quả xổ số miền Bắc hôm nay nhanh nhất tại xosotailoc.live Xổ số miền Bắc {{getNgay($date)}}</strong>
+                   <p> <strong> <a href="{{route('xsmb.date',getNgayLink($date))}}" title="Xổ số miền Bắc XSMB{{getNgay($date)}}">Xổ số miền Bắc {{getNgay($date)}}</a> </li> - Kết quả xổ số miền Bắc hôm nay nhanh nhất tại xosotailoc.vip Xổ số miền Bắc {{getNgay($date)}}</strong>
                     </p>
                     </li>Trực tiếp xsmb {{getThu(getThuNumber($date))}} ngày <a href="{{route('xsmb.date',getNgayLink($date))}}" title="Xổ số miền Bắc {{getNgay($date)}}">Xổ số miền Bắc {{getNgay($date)}}</a> </li> nhanh, chính xác nhất.
 
@@ -550,7 +550,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
                     <p><h2> <strong> Các Câu Hỏi Thường Gặp Về Xổ Số Miền Bắc {{getNgay($date)}} {{getThu(getThuNumber($date))}}</strong> </h2> </p>
                     <p><h3> <strong> Làm thế nào để biết kết quả xổ số miền Bắc {{getNgay($date)}}</strong>  </h3></p>
 
-                    <p>Kết quả xổ số miền Bắc XSMB{{getNgay($date)}} được công bố trên các trang web xosotailoc.live đề hoặc trên các kênh truyền hình vào mỗi ngày. </p>
+                    <p>Kết quả xổ số miền Bắc XSMB{{getNgay($date)}} được công bố trên các trang web xosotailoc.vip đề hoặc trên các kênh truyền hình vào mỗi ngày. </p>
 
                     <p><h3> <strong>  Tôi có thể mua vé xổ số miền Bắc ngày  {{getNgay($date)}} ở đâu? </strong>  </h3></p>
 

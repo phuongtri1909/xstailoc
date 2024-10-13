@@ -196,8 +196,8 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
             <p><strong>Xem kết quả hàng ngày truy cập: <a href="{{route('home')}}" title="Xổ số kiến thiết 3 miền"><span
                                 style="color:#0000FF">Xổ số kiến thiết 3 miền</span></a></strong></p>
                                 
-            <p><span style="font-weight: 400;">Bảng Đặc Biệt tuần. Bảng TK DB tuần. Bảng Thống K&ecirc; Đặc Biệt tuần. Xem Bảng Đặc Biệt tuần đầy đủ, ch&iacute;nh x&aacute;c v&agrave; ho&agrave;n to&agrave;n miễn ph&iacute; tại xosotailoc.live</span></p>
-            <p><span style="font-weight: 400;">xosotailoc.live cập nhật Bảng Thống K&ecirc; Giải Đặc Biệt tuần si&ecirc;u ch&iacute;nh x&aacute;c.</span></p>
+            <p><span style="font-weight: 400;">Bảng Đặc Biệt tuần. Bảng TK DB tuần. Bảng Thống K&ecirc; Đặc Biệt tuần. Xem Bảng Đặc Biệt tuần đầy đủ, ch&iacute;nh x&aacute;c v&agrave; ho&agrave;n to&agrave;n miễn ph&iacute; tại xosotailoc.vip</span></p>
+            <p><span style="font-weight: 400;">xosotailoc.vip cập nhật Bảng Thống K&ecirc; Giải Đặc Biệt tuần si&ecirc;u ch&iacute;nh x&aacute;c.</span></p>
             <h2><strong>Bảng Đặc Biệt tuần l&agrave; g&igrave;?</strong></h2>
             <p><span style="font-weight: 400;">L&agrave; bảng tổng hợp Giải Đặc Biệt theo tuần - XSMB v&agrave; c&aacute;c tỉnh th&agrave;nh kh&aacute;c đầy đủ v&agrave; hai số cuối ch&iacute;nh x&aacute;c nhất.&nbsp;</span></p>
             <p><span style="font-weight: 400;">Bảng giải đặc biệt theo tuần thống k&ecirc; tất cả c&aacute;c th&ocirc;ng tin về c&aacute;c giải đặc biệt đ&atilde; về trong 1 khoảng thời gian nhất định.&nbsp;</span></p>
@@ -206,15 +206,15 @@ date_default_timezone_set('Asia/Ho_Chi_Minh');
             <p><span style="font-weight: 400;">- 2 con số cuối của giải đặc biệt được t&ocirc; m&agrave;u xanh để l&agrave;m nổi bật.</span></p>
             <p><span style="font-weight: 400;">- B&ecirc;n dưới của mỗi kết quả đều c&oacute; hiển thị th&ocirc;ng tin thời gian mở thưởng rất chi tiết.</span></p>
             <h2><strong>Bảng đặc biệt theo tuần được cập nhật l&uacute;c n&agrave;o?</strong></h2>
-            <p><span style="font-weight: 400;">Bảng đặc biệt Miền Bắc theo tuần được xosotailoc.live cập nhật li&ecirc;n tục mỗi ng&agrave;y. Kết quả mới nhất được tường thuật trực tiếp từ trường quay v&agrave;o l&uacute;c 18h15' h&agrave;ng ng&agrave;y. Hệ thống của xosotailoc.live sẽ gi&uacute;p bạn cập nhật, tổng hợp tất cả c&aacute;c giải Đặc biệt một c&aacute;ch nhanh ch&oacute;ng v&agrave; ch&iacute;nh x&aacute;c. V&igrave; vậy, bạn ho&agrave;n to&agrave;n c&oacute; thể y&ecirc;n t&acirc;m khi tham khảo bảng đặc biệt Miền Bắc theo tuần tr&ecirc;n xosotailoc.live.</span></p>
+            <p><span style="font-weight: 400;">Bảng đặc biệt Miền Bắc theo tuần được xosotailoc.vip cập nhật li&ecirc;n tục mỗi ng&agrave;y. Kết quả mới nhất được tường thuật trực tiếp từ trường quay v&agrave;o l&uacute;c 18h15' h&agrave;ng ng&agrave;y. Hệ thống của xosotailoc.vip sẽ gi&uacute;p bạn cập nhật, tổng hợp tất cả c&aacute;c giải Đặc biệt một c&aacute;ch nhanh ch&oacute;ng v&agrave; ch&iacute;nh x&aacute;c. V&igrave; vậy, bạn ho&agrave;n to&agrave;n c&oacute; thể y&ecirc;n t&acirc;m khi tham khảo bảng đặc biệt Miền Bắc theo tuần tr&ecirc;n xosotailoc.vip.</span></p>
             <h2><strong>Lợi &iacute;ch của bảng đặc biệt miền Bắc theo tuần</strong></h2>
             <p><span style="font-weight: 400;">Bảng đặc biệt miền Bắc theo tuần l&agrave; c&ocirc;ng cụ hữu &iacute;ch cho việc soi số giải đặc biệt. Bảng dữ liệu kết quả theo tuần được cập nhật đầy đủ n&ecirc;n người chơi thuận tiện trong việc nhận ra con số n&agrave;o c&oacute; tần suất tr&uacute;ng thưởng cao, con số n&agrave;o &iacute;t về, sự tương quan giữa c&aacute;c con số,...</span></p>
             <p><span style="font-weight: 400;">Từ đ&oacute;, bạn dễ d&agrave;ng theo d&otilde;i quy luật về 2 số cuối giải ĐB trong tuần gần đ&acirc;y, chạm đầu, đu&ocirc;i v&agrave; dự đo&aacute;n con số c&oacute; khả năng cao sẽ xuất hiện trong giải đặc biệt tiếp theo.&nbsp;</span></p>
             <h2><strong>Hướng dẫn c&aacute;ch xem Bảng Đặc Biệt theo tuần</strong></h2>
             <p><span style="font-weight: 400;">Để c&oacute; thể xem bảng thống k&ecirc; kết quả xổ số giải đặc biệt theo tuần, bạn thực hiện theo c&aacute;c bước sau:</span></p>
-            <p><span style="font-weight: 400;">- Bước 1: Tại trang web của xosotailoc.live, chọn mục Thống k&ecirc; tr&ecirc;n thanh menu, tiếp theo nhấn v&agrave;o mục Bảng đặc biệt tuần.</span></p>
+            <p><span style="font-weight: 400;">- Bước 1: Tại trang web của xosotailoc.vip, chọn mục Thống k&ecirc; tr&ecirc;n thanh menu, tiếp theo nhấn v&agrave;o mục Bảng đặc biệt tuần.</span></p>
             <p><span style="font-weight: 400;">- Bước 2: Lựa chọn khu vực Miền Bắc/tỉnh th&agrave;nh v&agrave; khoảng thời gian bạn muốn xem kết quả giải Đặc Biệt theo tuần.</span></p>
-            <p><span style="font-weight: 400;">Bảng TK giải Đặc Biệt theo tuần. Xem thống k&ecirc; giải đặc biệt tuần nhanh ch&oacute;ng, ch&iacute;nh x&aacute;c v&agrave; ho&agrave;n to&agrave;n miễn ph&iacute; tại xosotailoc.live</span></p>
+            <p><span style="font-weight: 400;">Bảng TK giải Đặc Biệt theo tuần. Xem thống k&ecirc; giải đặc biệt tuần nhanh ch&oacute;ng, ch&iacute;nh x&aacute;c v&agrave; ho&agrave;n to&agrave;n miễn ph&iacute; tại xosotailoc.vip</span></p>
         </div>
     </div>
 @endsection

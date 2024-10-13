@@ -24,22 +24,22 @@ $count = count($xsmns);
     <meta property="og:type" content="website">
     <meta property="og:title" content="Mã nhúng">
     <meta property="og:description" content="">
-    <meta property="og:url" content="https://xosotailoc.live">
+    <meta property="og:url" content="https://xosotailoc.vip">
     <meta property="og:image" content="">
-    <meta property="og:site_name" content="xosotailoc.live">
+    <meta property="og:site_name" content="xosotailoc.vip">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="xosotailoc.live">
-    <meta name="twitter:creator" content="xosotailoc.live">
+    <meta name="twitter:site" content="xosotailoc.vip">
+    <meta name="twitter:creator" content="xosotailoc.vip">
     <meta name="twitter:title" content="Mã nhúng">
     <meta name="twitter:description" content="">
     <meta name="twitter:image" content="">
     <meta property="article:publisher" content="">
-    <meta property="article:author" content="xosotailoc.live">
+    <meta property="article:author" content="xosotailoc.vip">
     <meta property="article:section" content="Lottery">
     <meta property="article:tag" content="kết quả xổ số, kết quả vn">
-    <meta name="AUTHOR" content="xosotailoc.live">
-    <meta name="COPYRIGHT" content="Copyright (C) 2023 xosotailoc.live">
-    <link rel="index" title="Kết quả xổ số" href="https://xosotailoc.live">
+    <meta name="AUTHOR" content="xosotailoc.vip">
+    <meta name="COPYRIGHT" content="Copyright (C) 2023 xosotailoc.vip">
+    <link rel="index" title="Kết quả xổ số" href="https://xosotailoc.vip">
     <link rel="image_src" type="image/jpeg" href="">
     <link rel="shortcut icon" href="{{url('frontend/images/favicon.png')}}">
 
