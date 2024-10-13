@@ -5,7 +5,7 @@
     <title>@yield('title')</title>
     <meta name="description" content="@yield('decription')">
     <meta name="keywords" content="@yield('keyword')">
-    <meta name="robots" content="noindex, nofollow">
+    <meta name="robots" content="index, follow">
     <link rel="canonical" href="{{url()->current()}}"/>
     <link rel="alternate" href="{{url()->current()}}" hreflang="vi-vn"/>
     <link rel="alternate" href="{{url()->current()}}" hreflang="x-default"/>
